@@ -1,0 +1,76 @@
+site_name: Ny i Norge 🇺🇦
+theme:
+  font:
+    text: Montserrat
+  name: material
+  palette:
+      scheme: default
+  language: ru
+  logo: assets/norway-icon.svg
+  favicon: assets/favicon.png
+  features:
+    - navigation.tracking
+    - navigation.sections
+    - search.suggest
+    - search.share
+    - navigation.top
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+nav:
+  - Главная: 'index.md'
+  - Коллективная защита: 'kollektiv-beskyttelse.md'
+  - Интродукционная (ознакомительная) программа: 'introduksjonsprogram.md'
+  - Въезд с домашним питомцем в Норвегию: 'kjaeledyr.md'
+  - Водителям: 'forerkort-og-bil.md'
+  - Экономическая поддержка: 'stote.md'
+  - Жилье и временное размещение: 'bolig.md'
+  - Таможенные правила: 'toll.md'
+  - Статистика: 'statistikk.md'
+  - Образование: 'utdanning.md'
+  - Про работу в Норвегии: 'jobb.md'
+  - Медицинская помощь: 'helsehjelp.md'
+  - Получения постоянного вида на жительство: 'permanent-oppholdstillatelse.md'
+
+
+plugins:
+  - enumerate-headings:
+      toc_depth: 0
+      increment_across_pages: false
+      include:
+          - "kollektiv-beskyttelse.md"
+  - redirects:
+      redirect_maps:
+        'collective-protection.md': 'kollektiv-beskyttelse.md'
+        'introduction-programme.md': 'introduksjonsprogram.md'
+        'animals.md': 'kjaeledyr.md'
+        'other.md': 'index.md'
+        'work.md': 'jobb.md'
+        'stats.md': 'statistikk.md'
+        'housing.md': 'bolig.md'
+        'automobile.md': 'forerkort-og-bil.md'
+        'permanent-residency.md': 'permanent-oppholdstillatelse.md'
+        'benefits.md': 'stotte.md'
+        'annet.md': 'index.md'
+  - search:
+      lang: 
+        - ru
+        - en
+  - git-revision-date-localized:
+      locale: ru      
+
+markdown_extensions:
+- footnotes
+- attr_list
+- pymdownx.emoji:
+    emoji_index: !!python/name:material.extensions.emoji.twemoji
+    emoji_generator: !!python/name:material.extensions.emoji.to_svg
+- footnotes
+- toc:
+      permalink: true
+      baselevel: 1
+- admonition
+- pymdownx.details
+- pymdownx.superfences
+copyright: Copyright &copy; 2023 Ny i Norge. Слава Україні!
