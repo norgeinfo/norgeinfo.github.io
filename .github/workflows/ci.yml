@@ -22,7 +22,7 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material
+      - run: pip install git+https://github.com/squidfunk/mkdocs-material
       - run: pip install pymdown-extensions
       - run: pip install mkdocs-redirects
       - run: pip3 install mkdocs-git-revision-date-localized-plugin
