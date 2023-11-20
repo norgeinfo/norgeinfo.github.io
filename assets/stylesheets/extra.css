@@ -1,3 +1,28 @@
+.md-header {
+  background-color: #0057B7;
+}
+
+.md-banner {
+  background-color: #009A44;
+}
+
+.md-footer-meta {
+  background: #FFDD00;
+}
+
+.md-copyright {
+  color: #000;
+}
+
+.md-copyright__highlight {
+  color: #020202;
+  font-weight: bold;
+}
+
+html .md-footer-meta.md-typeset a {
+  color: #000;
+}
+
 .md-typeset .admonition, .md-typeset details {
   color: var(--md-admonition-fg-color);
   font-size: .74rem;
@@ -35,6 +60,7 @@
   border-color: rgb(255, 255, 255);
   padding: 0 0.6rem 0.1rem;
   border-radius: 0px;
+  border-width: thick;
 }
 
 .md-typeset .admonition-title, .md-typeset summary {
