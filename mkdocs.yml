@@ -1,8 +1,9 @@
-site_name: Ny i Norge 🇺🇦
+site_name: NorgeINFO 🇺🇦
 theme:
   font:
     text: Montserrat
   name: material
+  custom_dir: overrides
   palette:
       scheme: default
   language: ru
@@ -73,4 +74,4 @@ markdown_extensions:
 - admonition
 - pymdownx.details
 - pymdownx.superfences
-copyright: Copyright &copy; 2023 Ny i Norge. Слава Україні!
+copyright: Слава Україні!
