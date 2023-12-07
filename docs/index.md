@@ -9,48 +9,30 @@ hide:
 
 Этот сайт составлен волонтерами, и является *дополнением* к официальному сайту ["Нові в Норвегії"](https://www.nyinorge.no/uk/). Информация на этом сайте представлена с источниками.
 
-# Зміни в законодавстві щодо переміщених осіб з України (Грудень 2023)
-
-???+ note "Прес-реліз (Уряд Норвегії)"
-
-    - Проживання в готелях або інших подібних місцях більше не буде організовано для осіб, які вирішать не їхати в Національний центр реєстрації. Крім того, накладаються обмеження на використання готелів та схожих об’єктів в якості притулків для біженців. 
-
-    - Переселенцям з України, які приїхали в інші частини Норвегії, більше не буде запропоновано житло чи транспорт. Особи, які потребують розміщення в притулку для біженців, повинні звернутися до поліції та Директорату у справах іноземців (UDI) при Національному центрі реєстрації в муніципалітеті Роде.
-
-    - Посилюються міри щодо обмеження можливості поїздок між Україною та Норвегією для осіб з тимчасовим колективним захистом у Норвегії.
-
-    Детальніше про заходи: [https://www.regjeringen.no/](https://www.regjeringen.no/en/aktuelt/changes-to-the-regulations-for-displaced-ukrainians/id3017444/?expand=factbox3017483)
-
+!!! warning "Зміни в законодавстві щодо переміщених осіб з України (Грудень 2023)"
+     
+    [Детальніше про зміни можна дізнатися на сайті уряду Норвегії](https://www.regjeringen.no/en/aktuelt/changes-to-the-regulations-for-displaced-ukrainians/id3017444/?expand=factbox3017483).
 
 
 # Часто задаваемые вопросы { #faq }
-## :flag_no: ["Нові в Норвегії" (офіційна інформація від норвезьких органів влади)](https://www.nyinorge.no/uk/)
 
-## :flag_no: [Ласкаво просимо до Норвегії (інформація про норвезьке суспільство)](https://www.imdi.no/globalassets/illustrasjoner/ukraina/information-about-norwegian-society-2022---ukrainsk0822.pdf)
+<div class="grid cards" markdown>
 
-## :octicons-law-16: [Коллективная защита](kollektiv-beskyttelse.md)
-Критерии получение коллективной защиты. Как (и где) подать ходатайство о получении коллективной защиты. Различия коллективной защиты и индивидуальной защиты.
-
-## :guide_dog: [Въезд с домашним питомцем](kjaeledyr.md)
-
-## :speaking_head: [Як спілкуватися через перекладача](https://www.imdi.no/globalassets/illustrasjoner/ukraina/a-fore-en-samtale-via-tolk_ukrainsk.pdf)
-
-## :books: [Интродукционная (ознакомительная) программа](introduksjonsprogram.md)
-
-## :house: [Жилье и временное размещение](bolig.md)
-
-## :material-hand-coin: [Экономическая поддержка](stotte.md)
-
-## :material-hospital-box: [Медицинская помощь](helsehjelp.md)
-
-## :red_car: [Водительские права и использование личного автомобиля](forerkort-og-bil.md)
-
-## :material-hammer-wrench: [Работа в Норвегии](jobb.md)
-
-## :customs: [Таможенные правила для въезжающих в Норвегию](toll.md)
-
-## :material-passport: [Получения постоянного вида на жительство в Норвегии](permanent-oppholdstillatelse.md)
-
-## :fontawesome-solid-chart-pie: [Статистика](statistikk.md)
-
-## :flag_ua: [Посольство України в Норвегії](https://norway.mfa.gov.ua/) | [Українська громада в Норвегії](https://www.facebook.com/DenUkrainskeForeningiNorge/) | [Українці в Норвегії](https://www.ukrainere.no/about-us/)
+- :flag_no: ["Нові в Норвегії" (офіційна інформація від норвезьких органів влади)](https://www.nyinorge.no/uk/)
+- :flag_no: [Ласкаво просимо до Норвегії (інформація про норвезьке суспільство)](https://www.imdi.no/globalassets/illustrasjoner/ukraina/information-about-norwegian-society-2022---ukrainsk0822.pdf)
+- :octicons-law-16: [Коллективная защита](kollektiv-beskyttelse.md)
+- :guide_dog: [Въезд с домашним питомцем](kjaeledyr.md)
+- :speaking_head: [Як спілкуватися через перекладача](https://www.imdi.no/globalassets/illustrasjoner/ukraina/a-fore-en-samtale-via-tolk_ukrainsk.pdf)
+- :books: [Интродукционная (ознакомительная) программа](introduksjonsprogram.md)
+- :house: [Жилье и временное размещение](bolig.md)
+- :material-hand-coin: [Экономическая поддержка](stotte.md)
+- :material-hospital-box: [Медицинская помощь](helsehjelp.md)
+- :red_car: [Водительские права и использование личного автомобиля](forerkort-og-bil.md)
+- :material-hammer-wrench: [Работа в Норвегии](jobb.md)
+- :customs: [Таможенные правила для въезжающих в Норвегию](toll.md)
+- :material-passport: [Постоянный вид на жительство в Норвегии](permanent-oppholdstillatelse.md)
+- :fontawesome-solid-chart-pie: [Статистика](statistikk.md)
+- :flag_ua: [Посольство України в Норвегії](https://norway.mfa.gov.ua/)
+- :flag_ua: [Українська громада в Норвегії](https://www.facebook.com/DenUkrainskeForeningiNorge/)
+- :flag_ua: [Українці в Норвегії](https://www.ukrainere.no/about-us/)
+</div>
