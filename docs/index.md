@@ -9,9 +9,10 @@ hide:
 
 Этот сайт составлен волонтерами, и является *дополнением* к официальному сайту ["Нові в Норвегії"](https://www.nyinorge.no/uk/). Информация на этом сайте представлена с источниками.
 
-!!! warning "Зміни в законодавстві щодо переміщених осіб з України (Прес-релиз 07.12.2023)"
-     
-    [Детальніше про зміни можна дізнатися на сайті уряду Норвегії](https://www.regjeringen.no/en/aktuelt/changes-to-the-regulations-for-displaced-ukrainians/id3017444/?expand=factbox3017483).
+!!! warning "Зміни в законодавстві щодо переміщених осіб з України"
+    - [Нові правила щодо колективного захисту](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/)
+    - [Зміни у вимогах пов'язаних з розміщенням шукачів притулку](https://www.regjeringen.no/en/aktuelt/changes-in-requirements-for-accommodation-offered-to-asylum-seekers/id3018090/?expand=factbox3018768)
+    - [Українці, які їдуть на батьківщину, ризикують втратити дозвіл на проживання в Норвегії](https://www.regjeringen.no/en/aktuelt/ukrainians-who-travel-to-their-country-of-origin-risk-losing-their-residence-permit-in-norway/id3018250/?expand=factbox3018765)
 
 
 # Часто задаваемые вопросы { #faq }
