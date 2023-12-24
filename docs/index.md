@@ -32,6 +32,7 @@ hide:
 - :material-hammer-wrench: [Работа в Норвегии](jobb.md)
 - :customs: [Таможенные правила для въезжающих в Норвегию](toll.md)
 - :material-passport: [Постоянный вид на жительство в Норвегии](permanent-oppholdstillatelse.md)
+- :woman_student: [Мікрокурс від кар'єрного центру в Осло, Умови вступу до університетів y Норвегії](https://vimeo.com/810049944/2c31ac7c9b)
 - :fontawesome-solid-chart-pie: [Статистика](statistikk.md)
 - :flag_ua: [Посольство України в Норвегії](https://norway.mfa.gov.ua/)
 - :flag_ua: [Українська громада в Норвегії](https://www.facebook.com/DenUkrainskeForeningiNorge/)
