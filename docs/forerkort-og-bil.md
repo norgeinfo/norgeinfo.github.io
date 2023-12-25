@@ -18,7 +18,7 @@ hide:
 
 > :fontawesome-solid-circle-exclamation: Учитываете, что вы не освобождены от оплаты за проезд по платным автомобильным норвежскими дорогами. 
 
-**См. также**: [:octicons-link-external-16: Використання автомобіля з іноземними номерами](https://www.skatteetaten.no/person/utenlandsk/informasjon-til-deg-som-er-asylsoker-fra-ukraina2/)
+**См. также**: [:octicons-link-external-16: Використання автомобіля з іноземними номерами](https://www.skatteetaten.no/person/utenlandsk/ukraina/#bruke-utenlandsregistrert-bil)
 
 ## Страховка автогражданской ответственности { #forsikring }
 Использование на территории Норвегии транспортного средства требует наличия действующей в Норвегии страховки автогражданской ответственности. Страхование автогражданской ответственности является обязательным, согласно :octicons-law-16: [bilansvarslova § 15](https://lovdata.no/lov/1961-02-03/§15). 
@@ -47,7 +47,7 @@ hide:
 >
 > Официальные сайты Норвегии
 >
-> - [Інформація для шукачів притулку з України. Використання автомобіля з іноземними номерами (skatteetaten.no)](https://www.skatteetaten.no/person/utenlandsk/informasjon-til-deg-som-er-asylsoker-fra-ukraina2/){target=_blank}
+> - [Інформація для шукачів притулку з України. Використання автомобіля з іноземними номерами (skatteetaten.no)](https://www.skatteetaten.no/person/utenlandsk/ukraina/#bruke-utenlandsregistrert-bil)
 > - [Viktig informasjon til flyktninger fra Ukraina (Toll)](https://www.toll.no/no/verktoy/regelverk/nytt-fra-tolletaten/viktig-informasjon-til-flyktninger-fra-ukraina/)
 > - [Інформація для шукачів притулку з України (Skatteetaten)](https://www.skatteetaten.no/person/utenlandsk/informasjon-til-deg-som-er-asylsoker-fra-ukraina2/)
 
