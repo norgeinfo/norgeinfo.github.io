@@ -6,6 +6,20 @@ hide:
 !!! updated ""
     :octicons-clock-16: Информация на этой странице актуальна по состоянию на {{ git_revision_date_localized }}
 
+!!! warning "Зміни в законодавстві щодо переміщених осіб з України"
+    **Інформація від Директорату у справах іноземців (UDI)**
+    
+    - [Нові правила щодо колективного захисту](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/)
+
+    **Інформація від поліції Норвегії**
+    
+    - [Біженці, які бажають отримати місце в притулку для біженців, повинні зареєструвати свою заявку в Національному центрі реєстрації в муніципалітеті Роде](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/slik-soker-ukrainske-borgere-kollektiv-beskyttelse-i-norge/)
+
+    **Інформація від уряду Норвегії**
+
+    - [Українцям з подвійним громадянством не надаватимуть тимчасовий колективний захист в Норвегії](https://www.regjeringen.no/en/aktuelt/ukrainians-with-dual-citizenship-will-not-be-granted-temporary-collective-protection-in-norway/id3019700/?expand=factbox3020136)
+    - [Зміни у вимогах пов'язаних з розміщенням шукачів притулку](https://www.regjeringen.no/en/aktuelt/changes-in-requirements-for-accommodation-offered-to-asylum-seekers/id3018090/?expand=factbox3018768)
+    - [Українці, які їдуть на батьківщину, ризикують втратити дозвіл на проживання в Норвегії](https://www.regjeringen.no/en/aktuelt/ukrainians-who-travel-to-their-country-of-origin-risk-losing-their-residence-permit-in-norway/id3018250/?expand=factbox3018765)
 
 !!! question "Cписок вопросов"
     [TOC]
