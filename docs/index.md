@@ -7,13 +7,27 @@ hide:
 # **Волонтерский проект "NorgeINFO" (информация о Норвегии)** :flag_ua: :flag_no: 
 *Кратко о важном, для тех, кто собирается приехать в Норвегию.*
 
-Этот сайт составлен волонтерами, и является *дополнением* к официальному сайту ["Нові в Норвегії"](https://www.nyinorge.no/uk/). Информация на этом сайте представлена с источниками.
+Этот сайт составлен волонтером, и является *дополнением* к официальным сайтам Норвегии, в том числе сайту [:octicons-link-external-16: "Нові в Норвегії"](https://www.nyinorge.no/uk/). Информация на этом сайте представлена с источниками на официальные сайты и ресурсы Норвегии(1) 
+{ .annotate }
+
+1.  Источники всегда выделены в отдельный блок на каждой странице сайта.
+  
+    ![Источники](assets\img\sources-block.png)<figcaption>Пример блока "Источники"</figcaption>
 
 !!! warning "Зміни в законодавстві щодо переміщених осіб з України"
+    **Інформація від Директорату у справах іноземців (UDI)**
+    
     - [Нові правила щодо колективного захисту](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/)
+
+    **Інформація від поліції Норвегії**
+    
+    - [Біженці, які бажають отримати місце в притулку для біженців, повинні зареєструвати свою заявку в Національному центрі реєстрації в муніципалітеті Роде](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/slik-soker-ukrainske-borgere-kollektiv-beskyttelse-i-norge/)
+
+    **Інформація від уряду Норвегії**
+
+    - [Українцям з подвійним громадянством не надаватимуть тимчасовий колективний захист в Норвегії](https://www.regjeringen.no/en/aktuelt/ukrainians-with-dual-citizenship-will-not-be-granted-temporary-collective-protection-in-norway/id3019700/?expand=factbox3020136)
     - [Зміни у вимогах пов'язаних з розміщенням шукачів притулку](https://www.regjeringen.no/en/aktuelt/changes-in-requirements-for-accommodation-offered-to-asylum-seekers/id3018090/?expand=factbox3018768)
     - [Українці, які їдуть на батьківщину, ризикують втратити дозвіл на проживання в Норвегії](https://www.regjeringen.no/en/aktuelt/ukrainians-who-travel-to-their-country-of-origin-risk-losing-their-residence-permit-in-norway/id3018250/?expand=factbox3018765)
-
 
 # Часто задаваемые вопросы { #faq }
 

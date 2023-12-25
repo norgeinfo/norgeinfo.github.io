@@ -15,6 +15,9 @@ theme:
     - search.suggest
     - search.share
     - navigation.top
+    - content.tooltips
+  icon:
+    annotation: material/chevron-down-circle  
 
 extra_css:
   - assets/stylesheets/extra.css
@@ -63,6 +66,8 @@ plugins:
 
 markdown_extensions:
 - footnotes
+- abbr
+- attr_list
 - attr_list
 - md_in_html
 - pymdownx.emoji:
