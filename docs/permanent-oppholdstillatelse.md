@@ -28,8 +28,8 @@ hide:
 >
 > Законодательство
 > 
-> - [Utlendingsloven § 34](https://lovdata.no/lov/2008-05-15-35/§34)
-> - [Utlendingsloven § 62](https://lovdata.no/lov/2008-05-15-35/§62)
+> - [Utlendingsloven § 34. Kollektiv beskyttelse i en massefluktsituasjon]
+> - [Utlendingsloven § 62. Permanent oppholdstillatelse]
 
 ## Какие виды на жительство служат основанием для постоянного вида на жительство? { #2 }
 
@@ -72,7 +72,7 @@ hide:
 > 
 > Законодательство 
 >
-> - [Utlendingsloven § 62](https://lovdata.no/lov/2008-05-15-35/§62)
+> - [Utlendingsloven § 62. Permanent oppholdstillatelse](https://lovdata.no/lov/2008-05-15-35/§62)
 > 
 > Официальные сайты Норвегии
 > 

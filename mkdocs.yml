@@ -26,9 +26,9 @@ nav:
   - Главная: 'index.md'
   - Коллективная защита: 'kollektiv-beskyttelse.md'
   - Интродукционная (ознакомительная) программа: 'introduksjonsprogram.md'
-  - Въезд с домашним питомцем в Норвегию: 'kjaeledyr.md'
+  - Въезд с домашним питомцем: 'kjaeledyr.md'
   - Водителям: 'forerkort-og-bil.md'
-  - Экономическая поддержка: 'stote.md'
+  - Экономическая поддержка: 'stotte.md'
   - Жилье и временное размещение: 'bolig.md'
   - Таможенные правила: 'toll.md'
   - Статистика: 'statistikk.md'
@@ -80,4 +80,9 @@ markdown_extensions:
 - admonition
 - pymdownx.details
 - pymdownx.superfences
+- pymdownx.tabbed:
+      alternate_style: true
+- pymdownx.snippets:
+      auto_append:
+        - includes/links.md
 copyright: Слава Україні!
