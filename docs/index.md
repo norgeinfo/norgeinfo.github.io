@@ -43,7 +43,7 @@ hide:
 - :material-hand-coin: [Экономическая поддержка](stotte.md)
 - :material-hospital-box: [Медицинская помощь](helsehjelp.md)
 - :red_car: [Водительские права и использование личного автомобиля](forerkort-og-bil.md)
-- :material-hammer-wrench: [Работа в Норвегии](jobb.md)
+- :material-hammer-wrench: [Робота в Норвегії](jobb.md)
 - :customs: [Таможенные правила для въезжающих в Норвегию](toll.md)
 - :material-passport: [Постоянный вид на жительство в Норвегии](permanent-oppholdstillatelse.md)
 - :woman_student: [Образование](utdanning.md)
