@@ -26,7 +26,7 @@ hide:
 
 ---
 
-# Термины и сокращения встречающиеся на этой странице { #ordbok }
+# Термины и сокращения на этой странице { #ordbok }
 
 | Термин | Значение | Ссылка |
 |---|---|---|
@@ -79,7 +79,7 @@ hide:
 > 
 > - [Бажаєте подати заявкy на отримання захисту (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/)
 
-# На кого распространаяется коллективная защита? { #hvem-kan-fa-kollektiv-beskyttelse }
+# На кого распространяется коллективная защита? { #hvem-kan-fa-kollektiv-beskyttelse }
 Інформація від Директорату у справах іноземців (UDI):
 
 - [:octicons-link-external-16: Особи, які можуть отримати колективний захист (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/#link-30164)

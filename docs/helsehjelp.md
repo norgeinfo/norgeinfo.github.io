@@ -5,8 +5,20 @@ hide:
   - toc
 ---
 
-# Ccылки на подробную информацию о медицинской помощи в Норвегии
-- [:octicons-link-external-16: Надання медичної допомоги шукачам притулку та біженцям у Норвегії](https://www.helsenorge.no/uk/utlendinger-i-norge/helsehjelp-for-asylsokere-og-flyktninger-i-norge/)
+# Медична допомога
+
+## Важливі номери телефонів 
+
+Екстрена швидка допомога при невідкладних станах, загрозливих для життя та раптових захворюваннях: **113**
+
+Швидка допомога при травмах та хворобах, що вимагають термінового втручання (цілодобово): **116 117**
+
+
+## Більше інформації щодо медичної допомоги
+
+Helsenorge.no є державним веб-сайтом для жителів Норвегії. Зміст надається різними структурами сектору охорони здоров'я.
+
+- [:octicons-link-external-16: Надання медичної допомоги шукачам притулку та біженцям у Норвегії (Helsenorge)](https://www.helsenorge.no/uk/utlendinger-i-norge/helsehjelp-for-asylsokere-og-flyktninger-i-norge/)
 
 - [:octicons-link-external-16: Переведення для проходження лікування у шпиталі в Норвегії](https://www.helsenorge.no/uk/utlendinger-i-norge/helsehjelp-for-asylsokere-og-flyktninger-i-norge/overforing-til-sykehus-i-norge/)
 
@@ -16,4 +28,4 @@ hide:
 
 ---
 
-[Вернуться к оглавлению](index.md){ .md-button .md-button--primary }
+[Повернуться на головну сторінку](index.md){ .md-button .md-button--primary }

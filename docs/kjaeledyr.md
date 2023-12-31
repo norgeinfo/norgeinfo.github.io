@@ -5,12 +5,11 @@ hide:
 ---
 !!! updated ""
 
-    :octicons-clock-16: Информация на этой странице актуальна по состоянию на {{ git_revision_date_localized }}
-    
+    :octicons-clock-16: Інформація на цій сторінці актуальна станом на {{ git_revision_date_localized }}
+
 # Важлива інформація для біженців, які подорожують з домашніми тваринами з України { #important }
 
-Починаючи з **1 липня 2023**, домашні тварини, які прибувають до Норвегії з України, мають відповідати стандартним вимогам, що стосуються наявності мікрочипу, вакцинації проти сказу, проведення аналізу крові, лікування від ендопаразитів та наявності сертифікату здоров'я.
-
+Починаючи з 1 липня 2023, домашні тварини, які прибувають до Норвегії з України, мають відповідати стандартним вимогам, що стосуються наявності мікрочипу, вакцинації проти сказу, проведення аналізу крові, лікування від ендопаразитів та наявності сертифікату здоров'я.
     
 Раніше Норвегія та країни Європейського Союзу мали деякі винятки для домашніх тварин, які прибувають разом зі своїми власниками, які втекли від війни в Україні. З 1 липня 2023 винятки для домашніх тварин з України скасовуються.
 
@@ -29,38 +28,40 @@ hide:
 
 - [:octicons-link-external-16: Інформація для українських біженців, які привозять екзотичних домашніх тварин (Miljødirektoratet)](https://dev.environmentagency.no/information-to-ukrainian-refugees-bringing-their-exotic-pets-to-norway)
 
-# Со мной собака запрещенной в Норвегии породы { #forbudte-hunder-og-hunderaser }
-Ввоз некоторых пород собак в Норвегию запрещен. Запрет распространяется также на смеси, содержащие одну или несколько этих пород, независимо от соотношения. Породы собак, представляющие собой смесь собаки и волка, также считаются опасными собаками, независимо от соотношения.
+# Зі мною собака забороненої в Норвегії породи { #forbudte-hunder-og-hunderaser }
+Є породи собак, заборонені до ввезення в Норвегію. Детальніша інформація є на веб-сайті *Норвезького управління з безпеки харчових продуктів (Mattilsynet)*:
 
-[:octicons-link-external-16: Запрещенные собаки и породы собак (Mattilsynet)](https://www.mattilsynet.no/dyr/kjaeledyr/hund/forbudte-hunder-og-hunderaser)
+[:octicons-link-external-16: Заборонені собаки та породи собак (Mattilsynet)](https://www.mattilsynet.no/dyr/kjaeledyr/hund/forbudte-hunder-og-hunderaser) <small>(норвезька)</small> 
 
-Кроме того, независимо от породы, запрещено ввозить собак, которые отличаются особой агрессивностью, боевитостью и упорством и которые в силу этих характеристик представляют опасность для людей и животных.
+У разі ввезення біженцем із України собак заборонених на території Норвегії порід власникові необхідно подати заявку на надання винятку з правил утримання собак у країні.
 
-При ввозе беженцем из Украины собак запрещенных на территории Норвегии пород владельцу необходимо подать заявку на предоставление исключения из правил содержания собак в стране **до приезда в Норвегию**. Всю информацию уточняйте у *государственной службе по надзору за растениями, рыбой, животными и пищевыми продуктами Норвегии* (Mattilsynet) по электронной почте `bip.oslo.lufthavn@mattilsynet.no` / `bipg@mattilsynet.no` заранее.
+Всю інформацію дізнавайтесь у Норвезького управління з безпеки харчових продуктів (Mattilsynet) електронною поштою `bip.oslo.lufthavn@mattilsynet.no` / `bipg@mattilsynet.no`.
 
 
-# Вопросы и ответы { #grupper }
+# Питання та відповіді { #grupper }
 
-**Если у вас есть вопросы о ввозе животных в Норвегию, задайте их в специализированных группах**:
+**Якщо у вас є питання про ввезення тварин до Норвегії, запитайте у спеціалізованих групах**:
 
-- Группа в Телеграм: [:fontawesome-brands-telegram: Тварини у Норвегії Chat](https://t.me/LanaYelisieievaAnimalsChat)
+- [:fontawesome-brands-telegram: Тварини у Норвегії Chat](https://t.me/LanaYelisieievaAnimalsChat)
 
-- Группа в Facebook: [:simple-facebook: Help for Ukrainian pet owners in Norway](https://www.facebook.com/groups/326059659447939/)
+- [:simple-facebook: Help for Ukrainian pet owners in Norway](https://www.facebook.com/groups/326059659447939/)
 
-> :material-book-outline: **Источники**
+
+> :material-book-outline: **Джерела**
 > 
-> Законодательство
+> Законодавство
 >
+> - [Forskrift om ikke-kommersiell forflytning av kjæledyr (kjæledyrforskriften)](https://lovdata.no/dokument/SF/forskrift/2016-05-19-542/)
 > - [Hundeforskriften § 1. Forbud mot farlige hunder](https://lovdata.no/forskrift/2004-08-20-1204/§1)
 > - [Hundeloven §19. Farlige hunder](https://lovdata.no/lov/2003-07-04-74/§19)
 > - [Forskrift om forbud mot eksotiske dyr](https://lovdata.no/dokument/SF/forskrift/2017-05-11-597)
 >
-> Официальные сайты Норвегии
+> Офіційні сайти Норвегії
 > 
 > - [Вимоги щодо ввезення домашніх тварин з України (Mattilsynet)](https://www.mattilsynet.no/dyr/kjaeledyr/reise-med-kjaeledyr/kjaeledyr-fra-ukraina/informasjon-til-flyktninger-som-reiser-med-kjaeledyr-fra-ukraina#kap-2-------)
-> - [Запрещенные собаки и породы собак (Mattilsynet)](https://www.mattilsynet.no/dyr/kjaeledyr/hund/forbudte-hunder-og-hunderaser)
+> - [Заборонені собаки та породи собак (Mattilsynet)](https://www.mattilsynet.no/dyr/kjaeledyr/hund/forbudte-hunder-og-hunderaser)
 > - [Інформація для українських біженців, які привозять екзотичних домашніх тварин (Miljødirektoratet)](https://dev.environmentagency.no/information-to-ukrainian-refugees-bringing-their-exotic-pets-to-norway)
 
 ---
 
-[Вернуться к оглавлению](index.md){ .md-button .md-button--primary }
+[Повернуться на головну сторінку](index.md){ .md-button .md-button--primary }

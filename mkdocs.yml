@@ -25,16 +25,15 @@ extra_css:
 nav:
   - Главная: 'index.md'
   - Коллективная защита: 'kollektiv-beskyttelse.md'
-  - Интродукционная (ознакомительная) программа: 'introduksjonsprogram.md'
-  - Въезд с домашним питомцем: 'kjaeledyr.md'
+  - Інтродукційна (ознайомча) програма: 'introduksjonsprogram.md'
+  - Домашні тварини з України: 'kjaeledyr.md'
   - Водителям: 'forerkort-og-bil.md'
-  - Экономическая поддержка: 'stotte.md'
+  - Пособия и выплаты: 'stotte.md'
   - Жилье и временное размещение: 'bolig.md'
-  - Таможенные правила: 'toll.md'
   - Статистика: 'statistikk.md'
-  - Образование: 'utdanning.md'
+  - Освіта в Норвегії: 'utdanning.md'
   - Робота в Норвегії: 'jobb.md'
-  - Медицинская помощь: 'helsehjelp.md'
+  - Медична допомога: 'helsehjelp.md'
   - Получения постоянного вида на жительство: 'permanent-oppholdstillatelse.md'
 
 

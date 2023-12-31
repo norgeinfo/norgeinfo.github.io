@@ -11,7 +11,7 @@ hide:
 
 Ви маєте право працювати в Норвегії **після** отримання дозволу на проживання (колективний захист). 
 
-Якщо ви очікуєте відповіді на заяву про надання індивідуального захисту і хочете працювати, ви можете працювати тільки якщо ви [:octicons-link-external-16: отримали дозвіл на роботу](https://udi.no/uk/have-applied/protection-asylum/can-you-work/#link-8814) <small>(англiйська)</small>. 
+Якщо ви очікуєте відповіді на заяву про надання *індивідуального* захисту і хочете працювати, ви можете працювати тільки якщо ви [:octicons-link-external-16: отримали дозвіл на роботу](https://udi.no/uk/have-applied/protection-asylum/can-you-work/#link-8814) <small>(англійською)</small>.
 
 # Робота та податки в Норвегії { #skatt }
 
@@ -26,7 +26,7 @@ hide:
 # Інформаційні ресурси { #informasjon }
 ## Пошук роботи
 - [:octicons-link-external-16: Пошук роботи в Норвегії (nav.no)](https://www.nav.no/ukraina/uk#poshuk-roboti-v-norvegii) 
-- [:octicons-link-external-16: Перелік порталів пошуку роботи, кадрові та рекрутингові агентства (перелік складено Університетом Осло)](https://www.uio.no/studier/karriere/finn-jobben/utlysninger/jobbportaler.html) <small>(норвезька)</small> 
+- [:octicons-link-external-16: Перелік порталів пошуку роботи, кадрові та рекрутингові агентства (перелік складено Університетом Осло)](https://www.uio.no/studier/karriere/finn-jobben/utlysninger/jobbportaler.html) <small>(норвезькою)</small>  
 
 ## Інформація про трудові права та обов'язки
 - [:octicons-link-external-16: Інформація про роботу в Норвегії для українських біженців (NAV)](https://arbeidsplassen.nav.no/uk/work-in-norway) 
@@ -50,24 +50,23 @@ hide:
 
 Директорат з питань вищої освіти та компетентності (Hk-dir) має кілька різних процедур визнання іноземної освіти:
 
-- **Автоматичне визнання певних ступенів**: 
-  
-    Hk-dir пропонує автоматичне визнання певних ступенів, отриманих в Україні. Автоматичне визнання є стандартизованим висновком про те, до якого норвезького ступеня може бути прирівняний іноземний ступінь. Висновок можна завантажити та використовувати відразу, без подання заяви про визнання. [:octicons-link-external-16: Цей лист можливо завантажити та використати одразу, без подання заяви про визнання іноземної освіти](https://hkdir.no/en/foreign-education/education-from-outside-of-norway/recognition-of-foreign-higher-education-bachelor-master-and-phd/automatic-recognition-a-quicker-alternative). 
+- *Автоматичне визнання певних ступенів*: 
+    Hk-dir пропонує автоматичне визнання певних ступенів, отриманих в Україні. Автоматичне визнання є стандартизованим висновком про те, до якого норвезького ступеня може бути прирівняний іноземний ступінь. [:octicons-link-external-16: Висновок можна завантажити та використовувати відразу, без подання заяви про визнання іноземної освіти](https://hkdir.no/en/foreign-education/education-from-outside-of-norway/recognition-of-foreign-higher-education-bachelor-master-and-phd/automatic-recognition-a-quicker-alternative). 
 
-- [:octicons-link-external-16: **Звичайна процедура визнання іноземних документів про освіту (HK-dir)**](https://hkdir.no/en/foreign-education) <small>(англiйська)</small>
+- [:octicons-link-external-16: Звичайна процедура визнання іноземних документів про освіту (HK-dir)](https://hkdir.no/en/foreign-education) <small>(англійською)</small>
 
-- [:octicons-link-external-16: Cписок регульованих професій (HK-dir)](https://hkdir.no/en/foreign-education/lists-and-databases/regulated-professions) <small>(англiйська)</small>  
+- [:octicons-link-external-16: Cписок регульованих професій (HK-dir)](https://hkdir.no/en/foreign-education/lists-and-databases/regulated-professions) <small>(англійською)</small>
 
     Якщо ви бажаєте працювати за однією з професій, зазначених у списку вище, вам необхідно буде отримати дозвіл/визнання вашої професійної кваліфікації.
 
-- [:octicons-link-external-16: Допуск до роботи медичних працівників з освітою, отриманою за кордоном (Helsedirektoratet)](https://www.helsedirektoratet.no/veiledere/ansettelse-av-helsepersonell/helsemyndighetenes-ansvar/godkjenning-av-helsepersonell-med-utdanning-fra-utlandet) <small>(норвезька)</small> 
-    - [:octicons-link-external-16: Отримання ліцензії/авторизації (Helsedirektoratet)](https://www.helsedirektoratet.no/english/authorisation-and-license-for-health-personnel) <small>(англiйська)</small>  
+- [:octicons-link-external-16: Допуск до роботи медичних працівників з освітою, отриманою за кордоном (Helsedirektoratet)](https://www.helsedirektoratet.no/veiledere/ansettelse-av-helsepersonell/helsemyndighetenes-ansvar/godkjenning-av-helsepersonell-med-utdanning-fra-utlandet) <small>(норвезькою)</small> 
+    - [:octicons-link-external-16: Отримання ліцензії/авторизації (Helsedirektoratet)](https://www.helsedirektoratet.no/english/authorisation-and-license-for-health-personnel) <small>(англійською)</small>
 
 ## Статистика щодо заробітної плати { #lønnsstatistikk }
-[:octicons-link-external-16: Детальніше на сайті Центрального статистичного бюро Норвегії (SSB)](https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/lonn) <small>(норвезька)</small> 
+[:octicons-link-external-16: Детальніше на сайті Центрального статистичного бюро Норвегії (SSB)](https://www.ssb.no/arbeid-og-lonn/lonn-og-arbeidskraftkostnader/statistikk/lonn) <small>(норвезькою)</small> 
 
 
 
 ---
 
-[Повернутися до змісту](index.md){ .md-button .md-button--primary }
+[Повернуться на головну сторінку](index.md){ .md-button .md-button--primary }
