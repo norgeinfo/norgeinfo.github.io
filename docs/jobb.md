@@ -9,17 +9,17 @@ hide:
     
 # Право на роботу { #arbeidstillatelse }
 
-Ви маєте право працювати в Норвегії **після** отримання дозволу на проживання (колективний захист). 
+Ви маєте право працювати в Норвегії [:octicons-link-external-16: **після** отримання дозволу на проживання (колективний захист)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/#link-30134). 
 
 Якщо ви очікуєте відповіді на заяву про надання *індивідуального* захисту і хочете працювати, ви можете працювати тільки якщо ви [:octicons-link-external-16: отримали дозвіл на роботу](https://udi.no/uk/have-applied/protection-asylum/can-you-work/#link-8814) <small>(англійською)</small>.
 
 # Робота та податки в Норвегії { #skatt }
 
-Як працівник, ви повинні сплачувати податок із зарплати, яку отримуєте в Норвегії. Тоді потрібна податкова картка. Податкова картка показує вашому роботодавцю, скільки податків він повинен утримувати з вашої зарплати. Ви не можете подавати заяву на отримання податкової карти, поки не отримаєте право працювати і мати роботу.
+Як працівник, ви повинні сплачувати податок із зарплати, яку отримуєте в Норвегії. Тоді потрібна податкова картка. Податкова картка показує вашому роботодавцю, скільки податків він повинен утримувати з вашої зарплати. Ви не можете подавати заяву на отримання податкової карти, поки не отримаєте право працювати і мати роботу (колективний захист).
 
 Вам не потрібно з’являтися в податкову інспекцію, щоб подати заяву на отримання податкової картки. Ви можете подати заявку на отримання податкової картки онлайн, якщо ви електронний користувач, або ваш роботодавець може подати заявку на вас.
 
-[:octicons-link-external-16: Праця і податки в Норвегії: Оформити податкову картку](https://www.skatteetaten.no/person/utenlandsk/informasjon-til-deg-som-er-asylsoker-fra-ukraina2/)
+[:octicons-link-external-16: Праця і податки в Норвегії: Оформити податкову картку](https://www.skatteetaten.no/en/person/taxes/tax-deduction-card-and-advance-tax/) <small>(англійською)</small>
 
 [:octicons-link-external-16: Інформаційні фільми про податкову декларацію, податковий розрахунок та систему спрощеного оподаткування заробітної плати (Skatteetaten)](https://www.skatteetaten.no/person/utenlandsk/skal-du-arbeide-i-norge/skattemeldingen/film_no/film_ua1/)
 
@@ -57,7 +57,7 @@ hide:
 
 - [:octicons-link-external-16: Cписок регульованих професій (HK-dir)](https://hkdir.no/en/foreign-education/lists-and-databases/regulated-professions) <small>(англійською)</small>
 
-    Якщо ви бажаєте працювати за однією з професій, зазначених у списку вище, вам необхідно буде отримати дозвіл/визнання вашої професійної кваліфікації.
+    Якщо ви бажаєте працювати за однією з професій, зазначених у списку, вам необхідно буде отримати дозвіл/визнання вашої професійної кваліфікації.
 
 - [:octicons-link-external-16: Допуск до роботи медичних працівників з освітою, отриманою за кордоном (Helsedirektoratet)](https://www.helsedirektoratet.no/veiledere/ansettelse-av-helsepersonell/helsemyndighetenes-ansvar/godkjenning-av-helsepersonell-med-utdanning-fra-utlandet) <small>(норвезькою)</small> 
     - [:octicons-link-external-16: Отримання ліцензії/авторизації (Helsedirektoratet)](https://www.helsedirektoratet.no/english/authorisation-and-license-for-health-personnel) <small>(англійською)</small>
