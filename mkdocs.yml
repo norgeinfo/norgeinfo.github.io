@@ -6,7 +6,7 @@ theme:
   custom_dir: overrides
   palette:
       scheme: default
-  language: ru
+  language: uk
   logo: assets/norway-icon.svg
   favicon: assets/favicon.png
   features:
@@ -61,7 +61,7 @@ plugins:
         - ru
         - en
   - git-revision-date-localized:
-      locale: ru      
+      locale: uk    
 
 markdown_extensions:
 - footnotes
