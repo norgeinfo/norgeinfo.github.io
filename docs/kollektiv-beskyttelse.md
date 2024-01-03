@@ -21,7 +21,7 @@ hide:
     - [Зміни у вимогах пов'язаних з розміщенням шукачів притулку]
     - [Українці, які їдуть на батьківщину, ризикують втратити дозвіл на проживання в Норвегії]
 
-!!! question "Cписок вопросов"
+!!! question "Содержание"
     [TOC]
 
 ---
@@ -157,6 +157,10 @@ Bufetat занимается расселением несопровождаем
     
     :material-map-marker: __Адреса__: Mosseveien 58, 1640 Råde [(Переглянути на мапі)](https://www.google.com/maps/dir//Nasjonalt+ankomstsenter+R%C3%A5de,+Mosseveien+58,+1640+R%C3%A5de/@59.3576031,10.770232,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4646ab1b1efd56eb:0x39588a797b28d652!2m2!1d10.8408566!2d59.3578675)
 
+    :material-airplane-landing: __Найближчий аеропорт__: аеропорт Осло (Гардермоен/Gardemoen).
+
+    :material-car: __Найближчий перетин кордону__: автострада E6 в м. Свінесюнн (Швеція)/ Svinesund
+
 __Реєстрація заявки про захист__
 
 Національний центр реєстрації являється місцем, де вашу заявку про захист буде зареєстровано та відправлено для розгляду до Директорату у справах іноземців (UDI). Національний центр реєстрації є також __єдиним__ місцем, яке пропонує вам проживання під час реєстрації.
@@ -181,6 +185,10 @@ __Якщо ви прибули до Норвегії через прикордо
 __Пропозиція проживання у притулках для біженців__
 
 Після того, як ви зареєструвались в Національному центрі реєстрації, і на період розгляду вашої заявки про захист, якщо вам знадобиться місце для проживання, вам буде запропоновано місце в притулку для біженців в іншій частині країни. Вас повідомлять про місце та час поїздки. Поїздка до притулку для біженців організовує та оплачує центр реєстрації.
+
+__Дивіться також__:
+
+- [:octicons-link-external-16: Інформація для громадян України, які прибувають до Норвегії, щодо реєстрації в поліції для подання заяви про колективний захист (politiet.no)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/slik-soker-ukrainske-borgere-kollektiv-beskyttelse-i-norge/)
 
 ## Приватне проживання до і після реєстрації
 Якщо ви проживаєте і надалі будете проживати приватно, ви можете
@@ -335,6 +343,11 @@ __Учитываете, что:__
 [:octicons-link-external-16: вы можете ходатайствовать о выдаче всех видов разрешений, находясь на территории Норвегии](https://udi.no/ru/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/if-you-do-not-meet-the-requirements-for-collective-protection/#link-31644).
 
 Для получение больше информации, рекомендуется изучить информацию на сайте UDI, в том числе источники ниже.
+
+__См. также:__ 
+
+- [:octicons-link-external-16: Ви не належите до числа осіб, які можуть отримати колективний захист (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/if-you-do-not-meet-the-requirements-for-collective-protection/)
+-  [:octicons-link-external-16: Відеозустріч щодо індивідуального захисту (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/orientation-meeting-about-individual-protection/)
 
 > :material-book-outline: __Источники__ 
 >

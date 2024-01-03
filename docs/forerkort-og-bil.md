@@ -10,9 +10,9 @@ hide:
 !!! question "Содержание"
     [TOC]
 
-# Использование автомобиля с иностранными номерами { #bil }
+# Использование автомобиля с иностранными номерами { #bruk-av-bil }
 
-Если вы не проживали в Норвегии ранее, и не были зарегистрированы в качестве резидента страны более 365 дней в течение последних двух лет до получения коллективной защиты, вы можете использовать транспортное средство с иностранными номерами _в течение __2 лет__ с момента предоставления вам разрешения на проживание_ без уплаты пошлин, связанных с ввозом и регистрацией транспортного средства в Норвегию. 
+Если вы не проживали в Норвегии ранее, и не были зарегистрированы в качестве резидента страны более 365 дней в течение последних двух лет до получения коллективной защиты, вы можете использовать транспортное средство с иностранными номерами в течении __2 лет__ с момента предоставления вам разрешения на проживание без уплаты пошлин, связанных с ввозом и регистрацией транспортного средства в Норвегию. 
 
 Для использования транспортного средства не нужно подавать заявление или обращаться в налоговую Норвегии (Skatteetaten), если срок использования в Норвегии ограничен 2 годами.
 
@@ -20,7 +20,7 @@ hide:
 
 __См. также__: [:octicons-link-external-16: Використання автомобіля з іноземними номерами](https://www.skatteetaten.no/person/utenlandsk/ukraina/#bruke-utenlandsregistrert-bil)
 
-## Страховка автогражданской ответственности { #forsikring }
+# Страховка автогражданской ответственности { #forsikring }
 Использование на территории Норвегии транспортного средства требует наличия действующей в Норвегии страховки автогражданской ответственности. Страхование автогражданской ответственности является обязательным, согласно :octicons-law-16: [bilansvarslova § 15](https://lovdata.no/lov/1961-02-03/§15). 
 
 На транспортное средство, зарегистрированное в другом государстве и ввозимое на территорию Норвегии с целью временного использования, необходимо оформить полис пограничного страхования, если:
@@ -35,8 +35,6 @@ __См. также__: [:octicons-link-external-16: Використання ав
 !!! info "Больше информации"
     - [Таможня Норвегии (Toll). Важная информация для беженцев из Украины.](https://www.toll.no/no/verktoy/regelverk/nytt-fra-tolletaten/viktig-informasjon-til-flyktninger-fra-ukraina/)
 
-    - [Стоимость пограничной страховки (toll.no)](https://www.toll.no/no/varer/bil-og-andre-kjoretoy/bilimport/justering-av-priser-for-grenseforsikring-fra-1.-juni/)
-
     - [Информация про пограничную страховку (Trafikkforsikringsforeningen)](https://www.tff.no/temasider/grenseforsikring2/)
 
 > :material-book-outline: __Источники__
@@ -47,19 +45,20 @@ __См. также__: [:octicons-link-external-16: Використання ав
 >
 > Официальные сайты Норвегии
 >
-> - [Інформація для шукачів притулку з України. Використання автомобіля з іноземними номерами (skatteetaten.no)](https://www.skatteetaten.no/person/utenlandsk/ukraina/#bruke-utenlandsregistrert-bil)
 > - [Viktig informasjon til flyktninger fra Ukraina (Toll)](https://www.toll.no/no/verktoy/regelverk/nytt-fra-tolletaten/viktig-informasjon-til-flyktninger-fra-ukraina/)
-> - [Інформація для шукачів притулку з України (Skatteetaten)](https://www.skatteetaten.no/person/utenlandsk/informasjon-til-deg-som-er-asylsoker-fra-ukraina2/)
+> - [Інформація для шукачів притулку з України (Skatteetaten)](https://www.skatteetaten.no/person/utenlandsk/ukraina/)
 
 # Водительские удостоверения { #forerkort }
 
-- Водительские права, выданные в Украине, действительны для вождения в Норвегии сверх трех месяцев, и признание украинских прав действует до тех пор, пока лица, перемещенные из Украины, находится под временной коллективной защитой в Норвегии.
-- Правила временно распространяются на всех украинцев с видом на жительство в Норвегии.
+Офицальные правила касаемые действительности украинских водительских прав изложены на сайте Управления автомобильных дорог Норвегии (Statens Vegvesen): 
+
+- [Driving licenses from Ukraine](https://www.vegvesen.no/en/driving-licences/driving-licence-holders/driving-licences-in-norway-and-abroad/using-a-non-eueea-driving-licence-in-norway/driving-licences-from-ukraine/) 
+
+__Также, обратите внимание на следующее:__
+
 - У вас должно быть при себе физическое водительское удостоверение. Электронные удостоверения в «Дія» недействительны для использования на территории Норвегии (это следует из [:octicons-law-16: førerkortforskriften § 1-2, последний абзац](https://lovdata.no/forskrift/2004-01-19-298/§1-2)).
 - Владельцы водительских прав должны соответствовать [:octicons-link-external-16: норвежским возрастным требованиям](https://lovdata.no/forskrift/2004-01-19-298/%C2%A73-1) в соответствующих классах водительских прав.
-- Для профессиональных водителей есть требования о [:octicons-link-external-16: Yrkessjåførkompetanse](https://www.vegvesen.no/en/driving-licences/training-for-professional-drivers/professional-driver/?lang=en){target=_blank}. Если вы украинец и приехали в Норвегию, вы не получите признание вашей профессиональной квалификацию водителя из Украины. Вы должны получить базовое образование в Норвегии, чтобы получить квалификацию профессионального водителя.
-- Украинские водительские права с истекшим сроком действия недействительны для вождения в Норвегии. 
-    - Водительские удостоверения с ограниченным сроком действия (испытательный срок, т.е выданные впервые) тем не менее действительны для вождения в Норвегии, даже если срок их действия истек. Это вытекает из действующих правил ЕС.
+- Для профессиональных водителей есть требования о [:octicons-link-external-16: профессиональной квалификации водителя (Yrkessjåførkompetanse)](https://www.vegvesen.no/en/driving-licences/training-for-professional-drivers/).
 
 > :material-book-outline: __Источники__
 > 
@@ -72,7 +71,7 @@ __См. также__: [:octicons-link-external-16: Використання ав
 > Официальные сайты Норвегии
 > 
 > - [Driving licences from Ukraine (Statens vegvesen)](https://www.vegvesen.no/forerkort/har-forerkort/forerkort-i-og-utenfor-norge/bruk-av-forerkort-fra-land-utenfor-eu-eos-i-norge/forerkort-fra-ukraina/){target=_blank}.
-> - [Driver Certificate of Professional Competence (Statens vegvesen)](https://www.vegvesen.no/en/driving-licences/training-for-professional-drivers/professional-driver/?lang=en)
+> - [Training for professional drivers (Statens vegvesen)](https://www.vegvesen.no/en/driving-licences/training-for-professional-drivers/)
 
 
 ---
