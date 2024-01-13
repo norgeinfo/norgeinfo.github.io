@@ -1,6 +1,6 @@
 [Нові правила щодо колективного захисту]: https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/
     
-[Біженці, які бажають отримати місце в притулку для біженців, повинні зареєструвати свою заявку в Національному центрі реєстрації в муніципалітеті Роде]: https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/slik-soker-ukrainske-borgere-kollektiv-beskyttelse-i-norge/
+[Інформація для громадян України, які прибувають до Норвегії, щодо реєстрації в поліції для подання заяви про колективний захист]: https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/slik-soker-ukrainske-borgere-kollektiv-beskyttelse-i-norge/
 
 [Українцям з подвійним громадянством не надаватимуть тимчасовий колективний захист в Норвегії]: https://www.regjeringen.no/en/aktuelt/ukrainians-with-dual-citizenship-will-not-be-granted-temporary-collective-protection-in-norway/id3019700/?expand=factbox3020136
 

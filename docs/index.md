@@ -14,6 +14,7 @@ hide:
   
     ![Источники](assets\img\sources-block.png)<figcaption>Пример блока "Источники"</figcaption>
 
+
 !!! warning "Зміни в законодавстві щодо переміщених осіб з України"
     **Інформація від Директорату у справах іноземців (UDI)**
     
@@ -21,7 +22,7 @@ hide:
 
     **Інформація від поліції Норвегії**
     
-    - [Біженці, які бажають отримати місце в притулку для біженців, повинні зареєструвати свою заявку в Національному центрі реєстрації в муніципалітеті Роде]
+    - [Інформація для громадян України, які прибувають до Норвегії, щодо реєстрації в поліції для подання заяви про колективний захист]
 
     **Інформація від уряду Норвегії**
 
@@ -29,7 +30,7 @@ hide:
     - [Зміни у вимогах пов'язаних з розміщенням шукачів притулку]
     - [Українці, які їдуть на батьківщину, ризикують втратити дозвіл на проживання в Норвегії]
 
-# Часто задаваемые вопросы { #faq }
+## Посилання на офіційну інформацію (веб-сайти державних органів)
 
 <div class="grid cards" markdown>
 
@@ -40,6 +41,24 @@ hide:
 
     [:octicons-arrow-right-24: "Нові в Норвегії" (IMDI)](https://www.nyinorge.no/uk/)
 
+
+-   :material-file-document-multiple:{ .lg .middle } **Директорат у справах іноземців (UDI)**
+     
+    ---
+    Заяву на пошук притулку в Норвегії розглядає державний Директорат у справах іноземців (UDI). Веб-сторінка UDI містить офіційну інформацію для біженців з України про захист та перебування в Норвегії.
+
+    [:octicons-arrow-right-24: Інформація для біженців з України (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/)
+
+-   :oncoming_police_car:{ .lg .middle } **Поліція Норвегії (Politiet)**
+     
+    ---
+    Поліція Норвегії виконує функції, пов’язанні з проживанням іноземців в країні: реєстрація шукачів притулку, контроль документів, що посвідчують особу, прийняття і розгляд заяв.
+
+    [:octicons-arrow-right-24: Інформація щодо реєстрації в поліції для подання заяви про колективний захист (Politiet)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/slik-soker-ukrainske-borgere-kollektiv-beskyttelse-i-norge/)
+
+    [:octicons-arrow-right-24: Питання та відповіді: Процедура реєстрації, шо робити після реєстрації (Politiet)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/sporsmal-og-svar/)
+    
+
     
 -   :flag_no:{ .lg .middle } **Інформація про норвезьке суспільство**
     
@@ -48,6 +67,12 @@ hide:
    
     [:octicons-arrow-right-24: Ласкаво просимо до Норвегії (IMDI)](https://www.imdi.no/globalassets/illustrasjoner/ukraina/information-about-norwegian-society-2022---ukrainsk0822.pdf)
 
+    
+
+</div>
+
+## Часто задаваемые вопросы { #faq }
+<div class="grid cards" markdown>
 -   :octicons-law-16:{ .lg .middle } **Коллективная защита**
 
     ---
