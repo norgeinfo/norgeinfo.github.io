@@ -145,7 +145,7 @@ hide:
     
     --- 
 
-    [:octicons-arrow-right-24: Постоянный вид на жительство в Норвегии](permanent-oppholdstillatelse.md)
+    [:octicons-arrow-right-24: Разрешение на постоянное пребывание](permanent-oppholdstillatelse.md)
 
 
 -   :woman_student:{ .lg .middle} **Освіта в Норвегії**
