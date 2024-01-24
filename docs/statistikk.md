@@ -6,13 +6,13 @@ hide:
 # Статистика по коллективной защите (UDI) { #udi }
 Включает в себя информацию о количестве Украинцев, подавших на коллективную защиту, и количество получивших коллективную защиту.
 
-[:octicons-link-external-16: https://www.udi.no/statistikk-og-analyse/ukraina/](https://www.udi.no/statistikk-og-analyse/ukraina/)
+[:octicons-link-external-16: https://www.udi.no/statistikk-og-analyse/ukraina/](https://www.udi.no/statistikk-og-analyse/ukraina/) <small>(норвезькою)</small> 
 
 # Статистика по количеству расселенных беженцев (IMDI)
 
-[:octicons-link-external-16: https://www.imdi.no/planlegging-og-bosetting/bosettingstall/](https://www.imdi.no/planlegging-og-bosetting/bosettingstall/)
+[:octicons-link-external-16: https://www.imdi.no/planlegging-og-bosetting/bosettingstall/](https://www.imdi.no/planlegging-og-bosetting/bosettingstall/) <small>(норвезькою)</small> 
 
-### Пояснение к таблице
+### Пояснение к таблице на сайте IMDI (Fylke og kommunale bosettingstall)
 - __Antall personer kommunen har blitt anmodet om å bosette__: Общее количество беженцев которое государство (в лице IMDI) просит коммуну поселить в этом году.
 - __Antall personer kommunen har vedtatt å bosette__: Количество беженцев, которая коммуна приняла фактически (путем политического решения) поселить у себя.
 - __Antall bosatte personer__: Количество расселенных беженцев (здесь все беженцы, включая беженцев из Украины)
