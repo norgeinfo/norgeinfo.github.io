@@ -1,13 +1,12 @@
-site_name: NorgeINFO 🇺🇦
+site_name: NorgeINFO 🇺🇦 🇳🇴
 theme:
   font:
     text: Montserrat
   name: material
   custom_dir: overrides
   palette:
-      scheme: default
+      primary: custom
   language: uk
-  logo: assets/norway-icon.svg
   favicon: assets/favicon.png
   features:
     - navigation.tracking
@@ -17,7 +16,8 @@ theme:
     - navigation.top
     - content.tooltips
   icon:
-    annotation: material/chevron-down-circle  
+    annotation: material/chevron-down-circle
+    logo: material/information-box
 
 extra_css:
   - assets/stylesheets/extra.css
@@ -38,11 +38,6 @@ nav:
 
 
 plugins:
-  - enumerate-headings:
-      toc_depth: 0
-      increment_across_pages: false
-      include:
-          - "kollektiv-beskyttelse.md"
   - redirects:
       redirect_maps:
         'collective-protection.md': 'kollektiv-beskyttelse.md'
@@ -61,7 +56,7 @@ plugins:
         - ru
         - en
   - git-revision-date-localized:
-      locale: uk    
+      locale: uk  
 
 markdown_extensions:
 - footnotes
@@ -73,9 +68,6 @@ markdown_extensions:
     emoji_index: !!python/name:material.extensions.emoji.twemoji
     emoji_generator: !!python/name:material.extensions.emoji.to_svg
 - footnotes
-- toc:
-      permalink: true
-      baselevel: 1
 - admonition
 - pymdownx.details
 - pymdownx.superfences

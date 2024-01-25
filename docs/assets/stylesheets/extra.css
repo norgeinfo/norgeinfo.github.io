@@ -1,5 +1,24 @@
-.md-header {
-  background-color: #0057B7;
+h2 {
+  margin: 4rem 0rem 2rem 0rem;
+  border-bottom: solid 1px rgb(29, 89, 153);
+}
+
+h3 {
+  margin: 3rem 0rem 1rem 0rem;
+  padding: 0rem 0rem 0.5rem 0.5rem;
+  border-left: solid 2px rgb(29, 89, 153);
+}
+
+:root {
+  --md-primary-fg-color:        #0057B7;
+}
+
+.md-sidebar {
+  display: none;
+}
+
+.md-sidebar--secondary {
+  display: none !important;
 }
 
 .md-banner {
@@ -41,28 +60,20 @@ html .md-footer-meta.md-typeset a {
   max-width: 1024px;
 }
 
-:root {
-  --md-admonition-icon--updated: url('data:image/svg+xml;charset=utf-8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/></svg>')
-}
-.md-typeset .admonition.updated,
-.md-typeset details.updated {
-  border-color: rgb(255, 255, 255);
-  padding: 0 0.6rem 0.1rem;
-  border-radius: 0px;
-  border-width: thick;
-}
-
 .md-typeset .admonition-title, .md-typeset summary {
   font-weight: normal;
 }
 
-.md-typeset .updated > .admonition-title,
-.md-typeset .updated > summary {
-  background-color: rgba(43, 155, 70, 0.1);
-}
-.md-typeset .updated > .admonition-title::before,
-.md-typeset .updated > summary::before {
-  background-color: rgb(43, 155, 70);
-  -webkit-mask-image: var(--md-admonition-icon--updated);
-          mask-image: var(--md-admonition-icon--updated);
+article a[href^="http"]::after,
+article a[href^="https://"]::after
+{
+  content: "";
+  width: 14px;
+  height: 14px;
+  margin-left: 4px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z'/%3E%3Cpath fill-rule='evenodd' d='M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z'/%3E%3C/svg%3E");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
 }

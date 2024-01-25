@@ -1,16 +1,11 @@
----
-hide:
-  - navigation
-  - toc
----
-# Статистика по коллективной защите (UDI) { #udi }
+## Статистика по коллективной защите (UDI) { #udi }
 Включает в себя информацию о количестве Украинцев, подавших на коллективную защиту, и количество получивших коллективную защиту.
 
-[:octicons-link-external-16: https://www.udi.no/statistikk-og-analyse/ukraina/](https://www.udi.no/statistikk-og-analyse/ukraina/) <small>(норвезькою)</small> 
+[https://www.udi.no/statistikk-og-analyse/ukraina/](https://www.udi.no/statistikk-og-analyse/ukraina/) <small>(норвезькою)</small> 
 
-# Статистика по количеству расселенных беженцев (IMDI)
+## Статистика по количеству расселенных беженцев (IMDI)
 
-[:octicons-link-external-16: https://www.imdi.no/planlegging-og-bosetting/bosettingstall/](https://www.imdi.no/planlegging-og-bosetting/bosettingstall/) <small>(норвезькою)</small> 
+[https://www.imdi.no/planlegging-og-bosetting/bosettingstall/](https://www.imdi.no/planlegging-og-bosetting/bosettingstall/) <small>(норвезькою)</small> 
 
 ### Пояснение к таблице на сайте IMDI (Fylke og kommunale bosettingstall)
 - __Antall personer kommunen har blitt anmodet om å bosette__: Общее количество беженцев которое государство (в лице IMDI) просит коммуну поселить в этом году.
@@ -20,10 +15,10 @@ hide:
 - __Antall personer kommunen har avtalt å bosette__: Общее количество беженцев о которых коммуна договорилась с IMDi о поселении (но еще не расселены)
 - __Antall personer med kollektiv beskyttelse kommunen har avtalt å bosette__: Количество беженцев с коллективной защитой о которых коммуна договорилась с IMDi о поселении (: означает число скрыто)
 
-# Статистическое бюро Норвегии (SSB) { #ssb }
+## Статистическое бюро Норвегии (SSB) { #ssb }
 Статистическое бюро Норвегии (SSB) является основным органом, отвечающим за подготовку и распространение официальной статистики в Норвегии.
 
-Официальный сайт: [:octicons-link-external-16: https://www.ssb.no/](https://www.ssb.no/)
+Официальный сайт: [https://www.ssb.no/](https://www.ssb.no/)
 
 ---
 

@@ -1,16 +1,6 @@
----
-title: Разрешение на постоянное пребывание
-hide:
-  - navigation
-  - toc
----
-
-!!! updated ""
-    :octicons-clock-16: Информация на этой странице актуальна по состоянию на {{ git_revision_date_localized }}
-
 __Дает ли коллективная защита право на получения разрешение на постоянное пребывание?__
 
-Коллективная защита в Норвегии в течение первых трех лет [:octicons-link-external-16: не служит основанием для получения разрешение на постоянное пребывание](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/what-does-it-mean-that-collective-protection-does-not-form-the-basis-for-permanent-residence/#link-30197). Иными словами, разрешение на  _временное_ пребывание (midlertidig oppholdstillatelse) по коллективной защите не дает право на получение разрешение на _постоянное_ пребывание в Норвегии. 
+Коллективная защита в Норвегии в течение первых трех лет [не служит основанием для получения разрешение на постоянное пребывание](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/what-does-it-mean-that-collective-protection-does-not-form-the-basis-for-permanent-residence/#link-30197). Иными словами, разрешение на  _временное_ пребывание (midlertidig oppholdstillatelse) по коллективной защите не дает право на получение разрешение на _постоянное_ пребывание в Норвегии. 
 
 Для получения разрешение на постоянное пребывание (permanent oppholdstillatelse) необходимо иметь тот вид разрешение на _временное_ пребывание, который дает в последствии (через 3 или 5 лет в зависимости от типа разрешения) право на подачу заявки на разрешение на постоянное пребывание. Таким может являться, например «виза специалиста» (рабочая виза) или по воссоединению семьи с тем, кто имеет разрешение на постоянное пребывание или норвежское гражданство.
 
@@ -26,13 +16,13 @@ __Переход на иной тип разрешение на пребыван
 
 !!! note "Возможное изменение количества лет, на которые может быть предоставлена временная коллективная защита"
     
-      На данный момент идут обсуждения касаемые внесения поправок в закон о иммиграции, где предлагается повысить максимальный срок продление разрешение на  _временное_ пребывание по коллективной защите с 3 лет до __5__ лет. Информация на этой странице будет обновлена, если поправки будут приняты.  [:octicons-link-external-16: Подробнее об этом можно прочитать на сайте правительства Норвегии](https://www.regjeringen.no/no/dokumenter/horing-forslag-til-endring-av-antall-ar-det-kan-gis-midlertidig-kollektiv-beskyttelse-etter-utlendingsloven-34/id3020118/). 
+      На данный момент идут обсуждения касаемые внесения поправок в закон о иммиграции, где предлагается повысить максимальный срок продление разрешение на  _временное_ пребывание по коллективной защите с 3 лет до __5__ лет. Информация на этой странице будет обновлена, если поправки будут приняты. [Подробнее об этом можно прочитать на сайте правительства Норвегии](https://www.regjeringen.no/no/dokumenter/horing-forslag-til-endring-av-antall-ar-det-kan-gis-midlertidig-kollektiv-beskyttelse-etter-utlendingsloven-34/id3020118/). 
 
 __См. также информацию от UDI__: 
 
-- __Виды разрешений на проживание в Норвегии__: [:octicons-link-external-16: Want to apply](https://udi.no/en/want-to-apply/?c=ukr)
-- __Виды разрешений на проживание, образующие основание для получения разрешений на постоянное проживание__: [:octicons-link-external-16: Residence permits forming the basis for a permanent residence permit](https://udi.no/en/word-definitions/residence-permits-forming-the-basis-for-a-permanent-residence-permit/)
-- __Расчет срока пребывания для разрешений на постоянное проживание__: [:octicons-link-external-16: Calculating the residence period for permanent residence permits](https://udi.no/en/word-definitions/calculating-the-residence-period-for-permanent-residence-permits/)
+- Виды разрешений на проживание в Норвегии: [Want to apply](https://udi.no/en/want-to-apply/?c=ukr)
+- Виды разрешений на проживание, образующие основание для получения разрешений на постоянное проживание: [Residence permits forming the basis for a permanent residence permit](https://udi.no/en/word-definitions/residence-permits-forming-the-basis-for-a-permanent-residence-permit/)
+- Расчет срока пребывания для разрешений на постоянное проживание: [Calculating the residence period for permanent residence permits](https://udi.no/en/word-definitions/calculating-the-residence-period-for-permanent-residence-permits/)
 
 > :material-book-outline: __Источники__
 >
