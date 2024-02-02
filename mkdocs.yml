@@ -38,6 +38,7 @@ nav:
 
 
 plugins:
+  - glightbox
   - redirects:
       redirect_maps:
         'collective-protection.md': 'kollektiv-beskyttelse.md'

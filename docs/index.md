@@ -54,6 +54,8 @@
 <div class="grid cards" markdown>
 -   :octicons-law-16:{ .lg .middle } [:octicons-arrow-right-24: Коллективная защита](kollektiv-beskyttelse.md)
 
+-   :material-file-document:{ .lg .middle } [:octicons-arrow-right-24: Документы, выдаваемые Норвегией](dokumenter.md)
+
 -   :guide_dog:{ .lg .middle } [:octicons-arrow-right-24: Домашні тварини з України](kjaeledyr.md)
 
 -   :speaking_head:{ .lg .middle }
