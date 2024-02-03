@@ -65,12 +65,14 @@
     
 -   :books:{ .lg .middle } [:octicons-arrow-right-24: Інтродукційна (ознайомча) програма](introduksjonsprogram.md)
    
-
 -   :house:{ .lg .middle } [:octicons-arrow-right-24: Жилье и временное размещение](bolig.md)
 
 -   :material-hammer-wrench:{ .lg .middle } [:octicons-arrow-right-24: Робота в Норвегії](jobb.md)
     
 -   :material-hand-coin:{ .lg .middle } [:octicons-arrow-right-24: Пособия и выплаты](stotte.md)
+
+-   :material-human-male-child:{ .lg .middle } [:octicons-arrow-right-24: Соглашение о родительской ответственности](avtale-om-foreldreansvar.md)  
+
 
 -   :material-hospital-box:{ .lg .middle } [:octicons-arrow-right-24: Медична допомога](helsehjelp.md)
 
