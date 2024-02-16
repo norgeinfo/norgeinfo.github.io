@@ -260,8 +260,11 @@ __Выберите пункт отправления__ :material-arrow-down-circ
     - В поле _от_ введите _"Oslo"_ и в поле _до_ введите _"Jonsten E6"_ или _"Mosseveien 58, 1640 Råde"_ для составления машрута до регистрационного центра Råde.
     
 === "Torp (Sandefjord)"
+
     
     Из аэропорта Torp до Råde путь сложный, долгий и дороже, с пересадкой в городе Осло.
+
+    > __Альтернативный машрут мимо Oslo__ (составлен Victoria E): [https://drive.google.com/file/d/16qpDlzeSqxmUr__kwD1SxNQVFIpURTQA/view](https://drive.google.com/file/d/16qpDlzeSqxmUr__kwD1SxNQVFIpURTQA/view)
 
     :fontawesome-solid-bus-simple:  __Автобус Torpexpress до Осло__
 
