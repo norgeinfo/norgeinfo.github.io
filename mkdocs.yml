@@ -23,8 +23,8 @@ extra_css:
   - assets/stylesheets/extra.css
 
 nav:
-  - Главная: 'index.md'
-  - Коллективная защита: 'kollektiv-beskyttelse.md'
+  - Волонтерський проєкт «NorgeINFO»: 'index.md'
+  - Тимчасовий колективний захист: 'kollektiv-beskyttelse.md'
   - Інтродукційна (ознайомча) програма: 'introduksjonsprogram.md'
   - Домашні тварини з України: 'kjaeledyr.md'
   - Водителям: 'forerkort-og-bil.md'
