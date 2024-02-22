@@ -128,3 +128,7 @@ _Изменить_ родительскую ответственность эл�
 > - [Foreldreansvar (Skatteetaten)](https://www.skatteetaten.no/person/folkeregister/fodsel-og-navnevalg/foreldreansvar/)
 > - [Foreldreansvar for barn født i utlandet (Skatteetaten)](https://www.skatteetaten.no/person/folkeregister/fodsel-og-navnevalg/barn-fodt-i-utlandet/foreldreansvar-for-barn-fodt-i-utlandet/)
 > - [Foreldreansvar (regjeringen.no)](https://www.regjeringen.no/no/tema/familie-og-barn/innsiktsartikler/foreldreskap/foreldreansvar/id749199/)
+
+---
+
+[Вернуться к оглавлению](index.md){ .md-button .md-button--primary }
