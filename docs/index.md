@@ -64,7 +64,6 @@ hide:
 
 -   :red_car:{ .lg .middle }  [:octicons-arrow-right-24: Власний автомобіль](forerkort-og-bil.md)
 
-
 -   :customs:{ .lg .middle} [:octicons-arrow-right-24: Митні правила](https://www.toll.no/en/travelling-to-and-from-norway/travel-to-norway/) <small>(англійською)</small>
 
 -   :material-passport:{ .lg .middle} [:octicons-arrow-right-24: Разрешение на постоянное пребывание](permanent-oppholdstillatelse.md)
@@ -72,23 +71,3 @@ hide:
 -   :woman_student:{ .lg .middle}   [:octicons-arrow-right-24: Освіта в Норвегії](utdanning.md)
 
 -   :fontawesome-solid-chart-pie:{ .lg .middle} [:octicons-arrow-right-24: Статистична інформація](statistikk.md)
-
-
-
-</div>
-
-## Інформація для тих, хто перебуває у Норвегії
-<div class="grid cards" markdown>
--   :flag_ua:{ .lg .middle } [:octicons-arrow-right-24: Посольство України в Норвегії](https://norway.mfa.gov.ua/)
-
-
--   :flag_ua:{ .lg .middle } [:octicons-arrow-right-24: Українська громада в Норвегії](https://www.facebook.com/DenUkrainskeForeningiNorge/)
-
-- Побут та дозвілля
-- Цифрові сервіси
-- Юридичні посилання
-- Звʼязок
-
--   :material-file-document:{ .lg .middle } [:octicons-arrow-right-24: Документы, выдаваемые Норвегией](dokumenter.md)
-  
-</div>
