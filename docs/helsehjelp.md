@@ -1,5 +1,4 @@
 ---
-
 hide:
   - navigation
   - toc
@@ -31,4 +30,4 @@ Helsenorge.no є державним веб-сайтом для жителів Н
 
 ---
 
-[Повернуться на головну сторінку](index.md){ .md-button .md-button--primary }
+[Повернуться на головну](index.md){ .md-button .md-button--primary }
