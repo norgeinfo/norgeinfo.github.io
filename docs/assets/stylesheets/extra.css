@@ -13,14 +13,6 @@ h3 {
   --md-primary-fg-color:        #0057B7;
 }
 
-.md-sidebar {
-  display: none;
-}
-
-.md-sidebar--secondary {
-  display: none !important;
-}
-
 .md-banner {
   background-color: #009A44;
 }

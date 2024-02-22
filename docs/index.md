@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+  - toc
+---
 
 ![Norge-Ukraina](\assets\ukraina-norge-logo.png){ width=200px, align=right }
 Вітаємо! На цій сторінці ви можете знайти корисну інформацію для біженців з України, які перебувають у Норвегії або хочуть приїхати до Норвегії. Ми ділимось інформацією, яка має на меті допомогти переселенцям з України з початковими питаннями щодо перебування в Норвегії. 
@@ -6,10 +11,12 @@
     [TOC]
     
 
-!!! note "Цей веб-сайт постійно оновлюється та доповнюється. Просимо вибачення за будь-які помилки!"
+!!! note "Цей веб-сайт постійно оновлюється та доповнюється. Просимо вибачення за будь-які помилки! Будь ласка, перезавантажте сторінку, коли повертаєтесь на сайт, щоб побачити останні зміни."
 
 
-## Посилання на загальну інформацію від державних органів { #offisiell-informasjon }
+
+
+## Посилання на загальну інформацію від державних органів Норвегії { #offisiell }
 
 :flag_no:{ .lg .middle } __"Ny i Norge" ("Нові в Норвегії")__ надає офіційну інформацію від норвезьких органів влади для новоприбулих біженців та іммігрантів у Норвегії.
 
@@ -55,7 +62,7 @@
 
 -   :material-hospital-box:{ .lg .middle } [:octicons-arrow-right-24: Медична допомога](helsehjelp.md)
 
--   :red_car:{ .lg .middle }  [:octicons-arrow-right-24: Водительские права / авто](forerkort-og-bil.md)
+-   :red_car:{ .lg .middle }  [:octicons-arrow-right-24: Власний автомобіль](forerkort-og-bil.md)
 
 
 -   :customs:{ .lg .middle} [:octicons-arrow-right-24: Митні правила](https://www.toll.no/en/travelling-to-and-from-norway/travel-to-norway/) <small>(англійською)</small>
@@ -64,7 +71,7 @@
 
 -   :woman_student:{ .lg .middle}   [:octicons-arrow-right-24: Освіта в Норвегії](utdanning.md)
 
--   :fontawesome-solid-chart-pie:{ .lg .middle} [:octicons-arrow-right-24: Статистика](statistikk.md)
+-   :fontawesome-solid-chart-pie:{ .lg .middle} [:octicons-arrow-right-24: Статистична інформація](statistikk.md)
 
 
 
