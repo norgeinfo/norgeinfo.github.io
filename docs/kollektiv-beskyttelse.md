@@ -331,7 +331,7 @@ _Регіональні_
 
 - [Українці в Тронхеймі (DUFT)](https://t.me/ukrainsk_trondheim)
 - [Sunnfjord Українці: Офіційна](https://t.me/sunnfjord_ukr)
-- [Bergen Kommune](https://t.me/BergenKommune)
+- [Bergen Kommune](https://t.me/BergenNorway)
 
 ---
 
