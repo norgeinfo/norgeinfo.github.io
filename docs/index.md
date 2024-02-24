@@ -71,3 +71,7 @@ hide:
 -   :woman_student:{ .lg .middle}   [:octicons-arrow-right-24: Освіта в Норвегії](utdanning.md)
 
 -   :fontawesome-solid-chart-pie:{ .lg .middle} [:octicons-arrow-right-24: Статистична інформація](statistikk.md)
+
+-   :flag_ua:{ .lg .middle } [:octicons-arrow-right-24: Посольство України в Норвегії](https://norway.mfa.gov.ua/)
+
+-   :flag_ua:{ .lg .middle } [:octicons-arrow-right-24: Українська громада в Норвегії](https://www.facebook.com/DenUkrainskeForeningiNorge/)
