@@ -67,4 +67,4 @@ hide:
 
 ---
 
-[Повернуться на головну сторінку](index.md){ .md-button .md-button--primary }
+[Повернуться на головну](index.md){ .md-button .md-button--primary }

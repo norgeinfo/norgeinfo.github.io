@@ -57,7 +57,7 @@ hide:
     
 -   :material-hand-coin:{ .lg .middle } [:octicons-arrow-right-24: Пособия и выплаты](stotte.md)
 
--   :material-human-male-child:{ .lg .middle } [:octicons-arrow-right-24: Соглашение о родительской ответственности](avtale-om-foreldreansvar.md)  
+-   :material-human-male-child:{ .lg .middle } [:octicons-arrow-right-24: Батьківська відповідальність](avtale-om-foreldreansvar.md)  
 
 
 -   :material-hospital-box:{ .lg .middle } [:octicons-arrow-right-24: Медична допомога](helsehjelp.md)

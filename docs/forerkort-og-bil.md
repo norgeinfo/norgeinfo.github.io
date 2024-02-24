@@ -9,7 +9,7 @@ hide:
 
 ## Чи дійсне моє посвідчення водія в Норвегії? { #forerkort }
 
-Так.  [Офіційні правила щодо дійсності українських водійських прав є на сайті управління автомобільних доріг Норвегії (Statens Vegvesen)](https://www.vegvesen.no/en/driving-licences/driving-licence-holders/driving-licences-in-norway-and-abroad/using-a-non-eueea-driving-licence-in-norway/driving-licences-from-ukraine/) <small>(англійською)</small>
+Так, якщо ви маєте право на перебування в Норвегії. [Офіційні правила щодо дійсності українських водійських прав є на сайті управління автомобільних доріг Норвегії (Statens Vegvesen)](https://www.vegvesen.no/en/driving-licences/driving-licence-holders/driving-licences-in-norway-and-abroad/using-a-non-eueea-driving-licence-in-norway/driving-licences-from-ukraine/) <small>(англійською)</small>
 
 __Зверніть також увагу на наступні моменти:__
 

@@ -35,7 +35,7 @@ nav:
   - Робота в Норвегії: 'jobb.md'
   - Медична допомога: 'helsehjelp.md'
   - Разрешение на постоянное пребывание: 'permanent-oppholdstillatelse.md'
-  - Родительская ответственность: 'avtale-om-foreldreansvar.md'
+  - Батьківська відповідальність: 'avtale-om-foreldreansvar.md'
 
 plugins:
   - glightbox
