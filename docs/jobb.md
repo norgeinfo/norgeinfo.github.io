@@ -1,9 +1,3 @@
----
-hide:
-  - navigation
-  - toc
----
-
 ## Право на роботу { #arbeidstillatelse }
 
 Ви маєте право працювати в Норвегії [__після__ отримання дозволу на проживання (колективний захист)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/#link-30134). 
@@ -67,4 +61,4 @@ hide:
 
 ---
 
-[Повернуться на головну](index.md){ .md-button .md-button--primary }
+[Повернуться на головну сторінку](index.md){ .md-button .md-button--primary }

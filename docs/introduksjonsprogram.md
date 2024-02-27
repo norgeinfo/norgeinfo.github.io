@@ -1,19 +1,13 @@
----
-hide:
-  - navigation
-  - toc
----
-
 ## Що таке інтродукційна (ознайомча) програма? { #om }
-Особи віком від 18 до 55 років, що користуються тимчасовим колективним захистом та проживають у муніципалітеті за договором з Директорату з питань інтеграції та культурно-етнічного різноманіття (Integrerings- og mangfoldsdirektoratet - IMDi), за власним бажанням, мають право на ознайомлювальну програму.
+Особи віком від 18 до 55 років, що користуються тимчасовим колективним захистом та проживають у муніципалітеті за договором з органам інтеграції IMDI, за власним бажанням, мають право на ознайомлювальну програму.
 
 Інтродукційна (ознайомча) програма - це навчальна програма, яка може включати досвід роботи або освіту, а також вивчення норвезької мови. Учасники, що мають дітей віком до 18 років, повинні пройти курс про батьківство. Ознайомлювальна програма також може включати звичайну роботу з частковою зайнятістю, роботу з найму, профорієнтацію та курс про норвезьке суспільство. 
 
 Учасники ознайомлювальної програми отримують грошову допомогу. Ви повинні заплатити податок із отриманої виплати, так само як люди, котрі працюють.
 
-__Дивіться також__:
+[Інформація про ознайомлювальну програму та вивчення мови (для тих хто отримав тимчасовий колективний захист) від Директорату з інтеграції та культурно-етнічного різноманіття (IMDI)](https://www.imdi.no/globalassets/dokumenter/informasjon-om-introduksjonsprogram-og-sprakopplaring-for-personer-med-kollektiv-beskyttelse/informasjon-om-introduksjonsprogram-og-sprakopplaring-for-deg-med-midlertidig-kollektiv-beskyttelse-ukrainsk.pdf)
 
-- [Інформація про ознайомлювальну програму та про навчання норвезької мови для осіб, які отримали тимчасовий колективний захист.](https://www.nyinorge.no/uk/introduction-programme/)
+[Інформація про ознайомлювальну програму та про навчання норвезької мови для осіб, які отримали тимчасовий колективний захист.](https://www.nyinorge.no/uk/introduction-programme/)
 
 Якщо ви бажаєте дізнатися детальніше про юридичний контекст до інтродукційної програми, то ви можете переглянути [юридичний путівник до закону про інтеграцію, розділ 6А (норвезькою)](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringslovens-midlertidige-kapittel-6a/). Інформація про тривалість програми описується під пунктом "Introduksjonsprogram" (інтродукційна програма).
 
@@ -31,7 +25,7 @@ __Дивіться також__:
 >
 > - [Integreringslovens § 23](https://lovdata.no/lov/2020-11-06-127/§23)
 > 
-> Офіційні державні сайти
+> Офіційні сайти Норвегії
 > 
 > - [Juridisk veileder til integreringslovens § 23](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
 
@@ -57,10 +51,10 @@ __Дивіться також__:
 > - [Integreringsloven § 20](https://lovdata.no/lov/2020-11-06-127/§20)
 > - [Juridisk veileder til integreringslovens § 20](https://www.imdi.no/kvalifisering/regelverk/juridisk-veileder-til-integreringsloven/kapittel-5-introduksjonsstonad/)
 > 
-> Офіційні державні сайти
+> Офіційні сайти Норвегії
 > 
 > - [Grunnbeløpet i folketrygden (NAV)](https://www.nav.no/grunnbelopet)
 
 ---
 
-[Повернуться на головну](index.md){ .md-button .md-button--primary }
+[Повернуться на головну сторінку](index.md){ .md-button .md-button--primary }

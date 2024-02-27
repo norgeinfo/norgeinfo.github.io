@@ -1,9 +1,3 @@
----
-hide:
-  - navigation
-  - toc
----
-
 !!! question "Содержание"
     [TOC]
 

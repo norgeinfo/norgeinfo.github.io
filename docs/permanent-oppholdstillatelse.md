@@ -1,9 +1,3 @@
----
-hide:
-  - navigation
-  - toc
----
-
 __Дает ли коллективная защита право на получения разрешение на постоянное пребывание?__
 
 Коллективная защита в Норвегии в течение первых трех лет [не служит основанием для получения разрешение на постоянное пребывание](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/what-does-it-mean-that-collective-protection-does-not-form-the-basis-for-permanent-residence/#link-30197). Иными словами, разрешение на  _временное_ пребывание (midlertidig oppholdstillatelse) по коллективной защите не дает право на получение разрешение на _постоянное_ пребывание в Норвегии. 

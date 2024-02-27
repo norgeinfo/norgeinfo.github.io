@@ -1,16 +1,9 @@
----
-hide:
-  - navigation
-  - toc
----
-
-## Щодо колективного захисту (UDI) { #udi }
-
-Включає в себе інформацію про кількість українців, які подали заяву про надання колективного захисту, та кількість тих, хто отримав колективний захист.
+## Статистика по коллективной защите (UDI) { #udi }
+Включает в себя информацию о количестве Украинцев, подавших на коллективную защиту, и количество получивших коллективную защиту.
 
 [https://www.udi.no/statistikk-og-analyse/ukraina/](https://www.udi.no/statistikk-og-analyse/ukraina/) <small>(норвезькою)</small> 
 
-## Кількість розселених біженців (IMDi)
+## Статистика по количеству расселенных беженцев (IMDI)
 
 [https://www.imdi.no/planlegging-og-bosetting/bosettingstall/](https://www.imdi.no/planlegging-og-bosetting/bosettingstall/) <small>(норвезькою)</small> 
 
@@ -25,8 +18,8 @@ hide:
 ## Статистическое бюро Норвегии (SSB) { #ssb }
 Статистическое бюро Норвегии (SSB) является основным органом, отвечающим за подготовку и распространение официальной статистики в Норвегии.
 
-Официальный сайт: [https://www.ssb.no/](https://www.ssb.no/) <small>(норвезькою)</small> 
+Официальный сайт: [https://www.ssb.no/](https://www.ssb.no/)
 
 ---
 
-[Повернуться на головну](index.md){ .md-button .md-button--primary }
+[Вернуться к оглавлению](index.md){ .md-button .md-button--primary }

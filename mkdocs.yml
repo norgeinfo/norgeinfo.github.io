@@ -23,19 +23,19 @@ extra_css:
   - assets/stylesheets/extra.css
 
 nav:
-  - Волонтерський проєкт «NorgeINFO»: 'index.md'
-  - Тимчасовий колективний захист: 'kollektiv-beskyttelse.md'
+  - Главная: 'index.md'
+  - Коллективная защита: 'kollektiv-beskyttelse.md'
   - Інтродукційна (ознайомча) програма: 'introduksjonsprogram.md'
   - Домашні тварини з України: 'kjaeledyr.md'
-  - Власний автомобіль: 'forerkort-og-bil.md'
+  - Водителям: 'forerkort-og-bil.md'
   - Пособия и выплаты: 'stotte.md'
   - Жилье и временное размещение: 'bolig.md'
-  - Статистична інформація: 'statistikk.md'
+  - Статистика: 'statistikk.md'
   - Освіта в Норвегії: 'utdanning.md'
   - Робота в Норвегії: 'jobb.md'
   - Медична допомога: 'helsehjelp.md'
   - Разрешение на постоянное пребывание: 'permanent-oppholdstillatelse.md'
-  - Батьківська відповідальність: 'avtale-om-foreldreansvar.md'
+  - Родительская ответственность: 'avtale-om-foreldreansvar.md'
 
 plugins:
   - glightbox
@@ -60,7 +60,6 @@ plugins:
       locale: uk  
 
 markdown_extensions:
-- tables
 - footnotes
 - abbr
 - attr_list
@@ -75,9 +74,6 @@ markdown_extensions:
 - pymdownx.superfences
 - pymdownx.tabbed:
       alternate_style: true
-      slugify: !!python/object/apply:pymdownx.slugs.slugify
-        kwds:
-          case: lower
 - pymdownx.snippets:
       auto_append:
         - includes/links.md
