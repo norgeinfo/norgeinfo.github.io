@@ -5,11 +5,10 @@ hide:
 ---
 
 # Волонтерский проект «NorgeINFO» :flag_ua: :flag_no: 
-
-![Norge-Ukraina](\assets\ukraina-norge-logo.png){ width=150px, align=right }
+![Norge-Ukraina](\assets\ukraina-norge-logo.png){ width=135px, align=right }
 Кратко о важном, для тех, кто собирается приехать в Норвегию. Сайт составлен волонтером. Информация на этом сайте представлена с источниками. 
 
-## Загальна інформація { #offisiell }
+## Посилання на загальну інформацію { #info }
 
 :flag_no:{ .lg .middle } __"Ny i Norge" ("Нові в Норвегії")__ надає офіційну інформацію від норвезьких органів влади для новоприбулих біженців та іммігрантів у Норвегії.
 
@@ -31,7 +30,8 @@ hide:
     
 [:octicons-arrow-right-24: Питання та відповіді: Процедура реєстрації та шо робити після реєстрації (politiet.no)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/sporsmal-og-svar/)
 
-## Часто задаваемые вопросы: по категориям { #faq }
+## Часто задаваемые вопросы: по категориям
+
 <div class="grid cards" markdown>
 -   :octicons-law-16:{ .lg .middle } [:octicons-arrow-right-24: Коллективная защита](kollektiv-beskyttelse.md)
 

@@ -69,3 +69,54 @@ article a[href^="https://"]::after
   background-size: contain;
   display: inline-block;
 }
+
+.md-typeset .admonition.question,
+.md-typeset details.question {
+  border-color: rgb(43, 155, 70);
+  border-radius: 0;
+  font-size: inherit;
+  box-shadow: none;
+}
+.md-typeset .question > .admonition-title,
+.md-typeset .question > summary {
+  background-color: rgba(43, 155, 70, 0.1);
+  font-weight: 500;
+}
+
+.md-typeset .question > .admonition-title::before,
+.md-typeset .question > summary::before {
+  background-color:currentcolor;
+  content:"";
+  height:1rem;
+  -webkit-mask-image:var(--md-details-icon);
+  mask-image:var(--md-details-icon);
+  -webkit-mask-position:center;
+  mask-position:center;
+  -webkit-mask-repeat:no-repeat;
+  mask-repeat:no-repeat;
+  -webkit-mask-size:contain;
+  mask-size:contain;
+  position:absolute;
+  top:.625em;
+  /*! transform:rotate(0deg); *//*! transition:transform .25s; */width:1rem
+}
+
+.md-typeset details {
+  display:flow-root;
+  overflow:visible;
+  padding-top:0
+}
+.md-typeset details[open]>summary:before {
+  transform:rotate(90deg)
+}
+.md-typeset details:not([open]) {
+  box-shadow:none;
+  padding-bottom:0
+}
+.md-typeset details:not([open])>summary {
+  border-radius:.1rem
+}
+
+.md-typeset summary::after {
+  content: none;
+}
