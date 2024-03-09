@@ -16,10 +16,14 @@ hide:
 
     Коллективная защита не даёт оснований для получения разрешения на постоянное проживание в течение первых трех лет. Если ситуация в Украине не улучшится, то по прошествию трех лет с коллективной защитой вам может быть выдано временное разрешение, которое дает основания для дальнейшего получения разрешения на постоянное проживание.
 
-??? question "Кто имеет право на коллективную защиту?"
+??? question "Хто _має_ право на колективний захист?"
 
-    - :material-file-check: [Хто __має__ право на колективний захист?](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/#link-30164)
-    - :material-alert: [Хто __не__ може отримати колективний захист?](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/#link-30183)
+    [Хто _має_ право на колективний захист?](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/#link-30164)
+
+
+??? question "На кого _не_ поширюється колективний захист?"
+
+    [На кого _не_ поширюється колективний захист?](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/#link-30183)
 
 
 ??? question "Могу ли я получить коллективную защиту, если у меня есть разрешение на проживание в иной европейской стране?"
@@ -33,7 +37,7 @@ hide:
 
     Если вы не имеете право на получение коллективной защиты, ваше заявление будет рассматриваться в [:octicons-arrow-right-24: как заявление о убежище (индивидуальной защите)](#individuell-beskyttelse).
   
-    Если вы подаете заявление о получении защиты в Норвегии и относитесь к числу тех, [:octicons-arrow-right-24: кто может получить коллективную защиту](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/#link-30164), то UDI рассмотрит ваше заявление о получении коллективной защиты.
+    Если вы подаете заявление о получении защиты в Норвегии и относитесь к числу тех, [кто может получить коллективную защиту](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/#link-30164), то UDI рассмотрит ваше заявление о получении коллективной защиты.
 
 ??? question "Могу ли я остаться в Норвегии, когда война закончится?"
 
@@ -85,7 +89,7 @@ hide:
 
 ??? question  "Источники раздела :material-book-outline:"
     
-    Официальные сайты Норвегии
+    Официальные сайты
      
     - [Неповнолітні шукачі притулку з України без супроводу батьків (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/unaccompanied-minor-asylum-seekers-from-ukraine/)
     - [Representanter for enslige mindreårige asylsøkere (UDI)](https://udi.no/word-definitions/representatives-for-unaccompanied-minor-asylum-seekers/)
@@ -169,7 +173,7 @@ hide:
     
     - [GI-23/2023 – instruks om tolkningen av utlendingsloven § 95 – tilbud om innkvartering til asylsøkere mv.](https://www.regjeringen.no/no/dokumenter/gi-232023-instruks-om-tolkningen-av-utlendingsloven-95-tilbud-om-innkvartering-til-asylsokere-mv/id3018117/)
      
-    Официальные сайты Норвегии
+    Официальные сайты
      
     - [Запитання та відповіді про захист (притулок) та проживання у притулку для біженців в Норвегії (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers)
     - [Прибуття до Норвегії (UDI)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/arrival-in-norway/)
@@ -377,7 +381,7 @@ __Выберите пункт отправления__ :material-arrow-down-circ
     - Как правило, на время рассмотрения заявления, у вас забирают паспорт.
     - Вы не можете выезжать из Норвегии во время рассмотрения заявления о предоставлении индивидуальной защиты.
     - Если вы откажитесь от своего заявления о предоставление убежища, вы можете подать на любой иной тип разрешения. До тех пор, пока обязанность возвращения в Украину приостановлена, являясь гражданином Украины,
-    [вы можете подавать заявление о выдаче всех видов разрешений, находясь на территории Норвегии](https://udi.no/ru/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/if-you-do-not-meet-the-requirements-for-collective-protection/#link-31644).
+    [вы можете подавать заявление о выдаче всех видов разрешений, находясь на территории Норвегии](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/if-you-do-not-meet-the-requirements-for-collective-protection/#link-31644).
 
     Для получение больше информации, рекомендуется изучить информацию на сайте UDI, в том числе источники, перечисленные ниже. 
 
@@ -389,7 +393,7 @@ __Выберите пункт отправления__ :material-arrow-down-circ
     - [UDI 2022-004 Midlertidig kollektiv beskyttelse til personer fordrevet fra Ukraina]
     - [UDI 2014-001 Behandling av saker omfattet av Dublinforordningen](https://www.udiregelverk.no/rettskilder/udi-retningslinjer/udi-2014-001/)
     
-    Официальные сайты Норвегии
+    Официальные сайты
     
     - [Відеозустріч щодо індивідуального захисту (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/orientation-meeting-about-individual-protection/)
     - [Protection (UDI)](https://udi.no/en/have-applied/protection-asylum/)

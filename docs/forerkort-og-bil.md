@@ -33,7 +33,7 @@ __Бесплатная страховка (1 месяц)__
 Новые беженцы могут получить бесплатную страховку сроком 1 месяц (без возможности продления) при первом прибытие в Норвегию, для машин с украинскими номерами, у норвежской таможни (Toll). Такая страховка покрывает только ответственность и не покрывает ущерб, нанесенный вашему автомобилю в случае ДТП. После истечения срока вам нужно будет оформить страховку на автомобиль, согласно вариантам описаным выше. 
 
 !!! info "Больше информации"
-    - [Таможня Норвегии (Toll). Важная информация для беженцев из Украины.](https://www.toll.no/no/verktoy/regelverk/nytt-fra-tolletaten/viktig-informasjon-til-flyktninger-fra-ukraina/) <small>(норвезькою)</small> 
+    - [Таможня Норвегии (Toll). Важная информация для беженцев из Украины.](https://www.toll.no/no/bedrift/nytt-fra-tolletaten/viktig-informasjon-til-flyktninger-fra-ukraina/) <small>(норвезькою)</small> 
 
     - [Информация про пограничную страховку (Trafikkforsikringsforeningen)](https://www.tff.no/temasider/grenseforsikring2/) <small>(норвезькою)</small> 
 
@@ -45,7 +45,7 @@ __Бесплатная страховка (1 месяц)__
 >
 > Официальные сайты Норвегии
 >
-> - [Viktig informasjon til flyktninger fra Ukraina (Toll)](https://www.toll.no/no/verktoy/regelverk/nytt-fra-tolletaten/viktig-informasjon-til-flyktninger-fra-ukraina/)
+> - [Viktig informasjon til flyktninger fra Ukraina (Toll)](https://www.toll.no/no/bedrift/nytt-fra-tolletaten/viktig-informasjon-til-flyktninger-fra-ukraina/)
 > - [Інформація для шукачів притулку з України (Skatteetaten)](https://www.skatteetaten.no/person/utenlandsk/ukraina/)
 
 ## Водительские удостоверения { #forerkort }
