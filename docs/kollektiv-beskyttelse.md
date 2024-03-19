@@ -1,10 +1,4 @@
----
-hide:
-  - navigation
-  - toc
----
-
-## О коллективной защите { #om-kollektiv-beskyttelse }
+## :octicons-law-16:{ .lg .middle }  О коллективной защите { #om-kollektiv-beskyttelse }
 
 ??? question "Что такое коллективная защита?"
 
@@ -45,22 +39,6 @@ hide:
 
     Пока вы имеете коллективную защиту в Норвегии, вы можете подать заявление на любой иной тип разрешения на проживания, если вы соответствуете требованиям к его предоставлению. [Информацию можно найти на сайте UDI](https://www.udi.no/en/want-to-apply/?c=ukr).
 
-??? question "Источники раздела :material-book-outline:"
-    
-    Законодательство 
-     
-    - [Utlendingsloven § 34. Kollektiv beskyttelse i en massefluktsituasjon]
-    - [Utlendingsforskriften § 7-5a. Midlertidig kollektiv beskyttelse for personer fordrevet fra Ukraina](https://lovdata.no/forskrift/2009-10-15-1286/§7-5a)
-    - [UDI 2022-004 Midlertidig kollektiv beskyttelse til personer fordrevet fra Ukraina]
-    
-    Официальные сайты
-    
-    - [Бажаєте подати заявy на отримання захисту (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/)
-    - [Що означає те, що колективний захист не дає підстав для отримання дозволу на постійне проживання?]
-    - [Що станеться якщо я хочу приїхати до Норвегії, але вже подав заявку про отримання захисту або маю дозвіл на проживання в іншій європейській країні? (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/travel-to-norway/#link-30069)
-
-## Коллективная защита для детей и подростков без родителей { #enslige-mindrearige-asylsokere  }
-
 ??? question "Информация про коллективную защиту для детей и подростков без родителей"
 
     Несопровождаемые несовершеннолетние просители защиты (Enslige mindreårige asylsøkere) — это дети и молодые люди (до 18 лет), прибывшие в Норвегию без сопровождения родителей, и обратившийся за защитой.
@@ -87,7 +65,7 @@ hide:
     [Информация про поселение несопровождаемых несовершеннолетних можно найти на сайте Директората по вопросам интеграции и культурно-этнического разнообразия (_Integrerings- og mangfoldsdirektoratet – IMDi_)](https://www.imdi.no/planlegging-og-bosetting/slik-bosettes-flyktninger/enslige-mindrearige-flyktninger/).
 
 
-??? question  "Источники раздела :material-book-outline:"
+    __Источники раздела__ :material-book-outline:
     
     Официальные сайты
      
@@ -96,6 +74,20 @@ hide:
     - [Flyktninger og asylsøkere: Enslige mindreårige asylsøkere (Statsforvalteren)](https://www.statsforvalteren.no/nb/portal/Folk-og-samfunn/flyktninger-og-asylsokere/)
     - [Informasjon til deg som har fått oppnevnt representant (Statsforvalteren)](https://www.statsforvalteren.no/nb/oslo-og-viken/vergemal/vergemal-for-barn/representantordningen/informasjon-til-deg-som-har-fatt-oppnevnt-representant/)
     - [Bosetting av enslige mindreårige flyktninger (IMDi)](https://www.imdi.no/planlegging-og-bosetting/slik-bosettes-flyktninger/enslige-mindrearige-flyktninger/)
+
+??? question "Источники раздела :material-book-outline:"
+    
+    Законодательство 
+     
+    - [Utlendingsloven § 34. Kollektiv beskyttelse i en massefluktsituasjon]
+    - [Utlendingsforskriften § 7-5a. Midlertidig kollektiv beskyttelse for personer fordrevet fra Ukraina](https://lovdata.no/forskrift/2009-10-15-1286/§7-5a)
+    - [UDI 2022-004 Midlertidig kollektiv beskyttelse til personer fordrevet fra Ukraina]
+    
+    Официальные сайты
+    
+    - [Бажаєте подати заявy на отримання захисту (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/)
+    - [Що означає те, що колективний захист не дає підстав для отримання дозволу на постійне проживання?]
+    - [Що станеться якщо я хочу приїхати до Норвегії, але вже подав заявку про отримання захисту або маю дозвіл на проживання в іншій європейській країні? (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/travel-to-norway/#link-30069)
 
 ## Подача заявления о получении коллективной защиты { #registrering }
 
@@ -305,48 +297,6 @@ __Выберите пункт отправления__ :material-arrow-down-circ
     - В поле _от_ введите _"Sandefjord lufthavn (Torp)"_ и в поле _до_ введите _"Jonsten E6"_ или _"Mosseveien 58, 1640 Råde"_ для составления машрута до регистрационного центра.
 
 
-
-## У меня есть еще вопросы { #kontakt }
-
-??? question "Вам потрібно сконтактуватися з Директоратом у справах іноземців (UDI)?"
-
-    Ви можете подзвонити за цим номером __(+47) 21 49 32 84__, робочі години з 09.00 по 14.30 з понеділка по п'ятницю. Консультація надається на норвезькій та англійській мовах. [Також, у деяких випадках, ви можете заповнити контактну форму](https://www.udi.no/en/contact-us/case-or-regulations/).
-
-??? question "Правова лінія допомоги біженцям з України до Норвегії"
-
-    У зв’язку з триваючою війною в Україні [Асоціація адвокатів Норвегії (Advokatforeningen)](https://www.advokatforeningen.no/aktuelt/Nyheter/2022/juni/legal-helpline-for-refugees-from-ukraine-to-norway/) відкрила безкоштовну лінію довіри для надання правових консультацій українцям, які шукають захисту в Норвегії. На телефон довіри відповідатимуть адвокати-волонтери та члени Асоціації адвокатів.
-
-    Адвокати розмовляють переважно норвезькою або англійською мовами, але деякі юристи також розмовляють українською чи російською мовами.
-
-    Ви можете зателефонувати на гарячу лінію за номером __(+47) 22 13 62 45__. Гаряча лінія працює _щопонеділка_, _вівторка_ та _середи_ з 16:00 до 17:00, починаючи з 4 липня 2022 року.
-
-??? question "Телефонна служба адвокатського бюро Schjødt"
-    
-    З 1 вересня 2022 у адвокатському бюро Schjødt працює телефонна служба для безкоштовних юридичних консультацій українцям, які шукають колективний захист в Норвегії через війну.
-
-    Номер телефону __(+47) 22 01 88 10__
-    Телефонна лінія працює щодня з 11.00 до 13.00
-
-    Ми розмовляємо українською, російською, англійською та норвезькою мовами.
-
-??? question "Телефони довіри громадських організацій"
-
-    - __Caritas__, телефон довіри українською та російською мовами, дзвінок безкоштовно по WhatsApp. Робочі дні: понеділок – четвер, з 10:00 до 16:00. __(+47) 31 40 23 00__
-
-    - __ROSA__, цілодобова гаряча лінія норвезькою та англійською мовами (можна замовити послуги усного перекладача): __(+47) 22 33 11 60__.
-
-??? question "Чаты в Telegram"
-    __Загальні__
-
-    - [Захист. Українці в Норвегії](https://t.me/norway_ukraine)
-
-    __Регіональні__
-    
-    - [Sunnfjord Українці: Офіційна](https://t.me/sunnfjord_ukr)
-    - [Українці в Тронхеймі (DUFT)](https://t.me/ukrainsk_trondheim)
-    - [Bergen Kommune](https://t.me/BergenNorway)
----
-
 ## Индивидуальная защита (убежище/asylum) { #individuell-beskyttelse }
  
 ??? question "Что такое индивидуальная защита?"
@@ -401,7 +351,3 @@ __Выберите пункт отправления__ :material-arrow-down-circ
     - [Infformasjon til søkere som er i Dublin-prosedyre (UDI)](https://www.udi.no/viktige-meldinger/informasjon-til-deg-som-er-i-dublin-prosedyre/)
     - [Dublin-saker - Utlendingsnemda (UNE)](https://www.une.no/sakstyper/dublinsaker/)
     - [Beskyttelse/Asyl - Utlendingsnemda (UNE)](https://www.une.no/sakstyper/beskyttelseasyl/)
-
----
-
-[Вернуться к оглавлению](index.md){ .md-button .md-button--primary }

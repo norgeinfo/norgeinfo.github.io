@@ -1,31 +1,26 @@
----
-hide:
-  - navigation
-  - toc
----
+# :fontawesome-solid-chart-pie:{ .lg .middle} Статистика { #statistikk }
 
-## Статистика по коллективной защите (UDI) { #udi }
-Включает в себя информацию о количестве Украинцев, подавших на коллективную защиту, и количество получивших коллективную защиту.
+??? question "Статистика по коллективной защите (UDI)"
 
-[https://www.udi.no/statistikk-og-analyse/ukraina/](https://www.udi.no/statistikk-og-analyse/ukraina/) <small>(норвезькою)</small> 
+    Включает в себя информацию о количестве Украинцев, подавших на коллективную защиту, и количество получивших коллективную защиту.
 
-## Статистика по количеству расселенных беженцев (IMDI)
+    [https://www.udi.no/statistikk-og-analyse/ukraina/](https://www.udi.no/statistikk-og-analyse/ukraina/) <small>(норвезькою)</small> 
 
-[https://www.imdi.no/planlegging-og-bosetting/bosettingstall/](https://www.imdi.no/planlegging-og-bosetting/bosettingstall/) <small>(норвезькою)</small> 
+??? question "Статистика по количеству расселенных беженцев (IMDI)"
 
-### Пояснение к таблице на сайте IMDI (Fylke og kommunale bosettingstall)
-- __Antall personer kommunen har blitt anmodet om å bosette__: Общее количество беженцев которое государство (в лице IMDI) просит коммуну поселить в этом году.
-- __Antall personer kommunen har vedtatt å bosette__: Количество беженцев, которая коммуна приняла фактически (путем политического решения) поселить у себя.
-- __Antall bosatte personer__: Количество расселенных беженцев (здесь все беженцы, включая беженцев из Украины)
-- __Antall bosatte personer med kollektiv beskyttelse__: Количество расселенных беженцев с коллективной защитой
-- __Antall personer kommunen har avtalt å bosette__: Общее количество беженцев о которых коммуна договорилась с IMDi о поселении (но еще не расселены)
-- __Antall personer med kollektiv beskyttelse kommunen har avtalt å bosette__: Количество беженцев с коллективной защитой о которых коммуна договорилась с IMDi о поселении (: означает число скрыто)
+    [https://www.imdi.no/planlegging-og-bosetting/bosettingstall/](https://www.imdi.no/planlegging-og-bosetting/bosettingstall/) <small>(норвезькою)</small> 
 
-## Статистическое бюро Норвегии (SSB) { #ssb }
-Статистическое бюро Норвегии (SSB) является основным органом, отвечающим за подготовку и распространение официальной статистики в Норвегии.
+    __Пояснение к таблице на сайте IMDI (Fylke og kommunale bosettingstall)__
+    
+    - __Antall personer kommunen har blitt anmodet om å bosette__: Общее количество беженцев которое государство (в лице IMDI) просит коммуну поселить в этом году.
+    - __Antall personer kommunen har vedtatt å bosette__: Количество беженцев, которая коммуна приняла фактически (путем политического решения) поселить у себя.
+    - __Antall bosatte personer__: Количество расселенных беженцев (здесь все беженцы, включая беженцев из Украины)
+    - __Antall bosatte personer med kollektiv beskyttelse__: Количество расселенных беженцев с коллективной защитой
+    - __Antall personer kommunen har avtalt å bosette__: Общее количество беженцев о которых коммуна договорилась с IMDi о поселении (но еще не расселены)
+    - __Antall personer med kollektiv beskyttelse kommunen har avtalt å bosette__: Количество беженцев с коллективной защитой о которых коммуна договорилась с IMDi о поселении (: означает число скрыто)
 
-Официальный сайт: [https://www.ssb.no/](https://www.ssb.no/)
+??? question "Статистическое бюро Норвегии (SSB)"
 
----
+    Статистическое бюро Норвегии (SSB) является основным органом, отвечающим за подготовку и распространение официальной статистики в Норвегии.
 
-[Вернуться к оглавлению](index.md){ .md-button .md-button--primary }
+    Официальный сайт: [https://www.ssb.no/](https://www.ssb.no/)

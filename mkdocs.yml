@@ -24,21 +24,8 @@ theme:
 extra_css:
   - assets/stylesheets/extra.css
 
-nav:
-  - Главная: 'index.md'
-  - Коллективная защита: 'kollektiv-beskyttelse.md'
-  - Пособия и выплаты: 'stotte.md'
-  - Інтродукційна (ознайомча) програма: 'introduksjonsprogram.md'
-  - Домашні тварини з України: 'kjaeledyr.md'
-  - Водителям: 'forerkort-og-bil.md'
-  - Жилье и временное размещение: 'bolig.md'
-  - Освіта в Норвегії: 'utdanning.md'
-  - Робота в Норвегії: 'jobb.md'
-  - Медична допомога: 'helsehjelp.md'
-  - Разрешение на постоянное пребывание: 'permanent-oppholdstillatelse.md'
-  - Родительская ответственность: 'avtale-om-foreldreansvar.md'
-  - Статистика: 'statistikk.md'
 plugins:
+  - include-markdown
   - glightbox
   - redirects:
       redirect_maps:

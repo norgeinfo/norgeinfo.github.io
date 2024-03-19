@@ -1,8 +1,4 @@
----
-hide:
-  - navigation
-  - toc
----
+# :material-hand-coin:{ .lg .middle } Пособия и выплаты
 
 ??? question "1 этап: В центрах временного размещения (mottak)"
 
@@ -23,7 +19,7 @@ hide:
 
 ??? question "3 этап: При участии в интродукционной программе"
 
-    > [:octicons-arrow-right-24: Розрахунок суми щомісячної допомоги учасника інтродукційної програми](introduksjonsprogram.md/#introduksjonsstonad).
+    > [:octicons-arrow-right-24: Розрахунок суми щомісячної допомоги учасника інтродукційної програми](#introduksjonsstonad).
 
 
 ??? question "Інша допомога"
@@ -35,7 +31,3 @@ hide:
     - [Фінансова підтримка при появі або наявності дітей (NAV)](https://www.nav.no/ukraina/uk#pengestotte-barn-ua).
 
     - [Пенсія за віком, допомога по інвалідності та додаткова допомога (NAV)](https://www.nav.no/ukraina/uk#alderpensjon-uforetrygd-og-supplerende-stonad-ua).
-
----
-
-[Повернуться на головну сторінку](index.md){ .md-button .md-button--primary }
