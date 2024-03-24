@@ -6,7 +6,7 @@ hide:
 
 __Волонтерский проект «NorgeINFO» :flag_ua: :flag_no:__
 
-![Norge-Ukraina](\assets\ukraina-norge-logo.png){ width=135px, align=right }
+![Norge-Ukraina](assets\ukraina-norge-logo.png){ width=135px, align=right }
 Кратко о важном, для тех, кто собирается приехать в Норвегию. Сайт составлен волонтером. Информация на этом сайте представлена с источниками. 
 
 ??? warning "Открыть список вопросов"
@@ -24,23 +24,18 @@ __Волонтерский проект «NorgeINFO» :flag_ua: :flag_no:__
 
 {% include-markdown "forerkort-og-bil.md" %}
 
-{% include-markdown "jobb.md" %}
+{% include-markdown "arbeid.md" %}
 
 {% include-markdown "helsehjelp.md" %}
 
 {% include-markdown "statistikk.md" %}
 
-{% include-markdown "information.md" %}
+{% include-markdown "kontakt.md" %}
 
 # Иные вопросы
 
 <div class="grid cards" markdown>
-
--   :material-file-document:{ .lg .middle } [:octicons-arrow-right-24: Документы, выдаваемые Норвегией](dokumenter.md)
-
--   :speaking_head:{ .lg .middle }
-[:octicons-arrow-right-24: Як спілкуватися через перекладача](https://www.imdi.no/globalassets/illustrasjoner/ukraina/a-fore-en-samtale-via-tolk_ukrainsk.pdf)
-  
+ 
 -   :material-human-male-child:{ .lg .middle } [:octicons-arrow-right-24: Соглашение о родительской ответственности](avtale-om-foreldreansvar.md)  
 
 -   :customs:{ .lg .middle} [:octicons-arrow-right-24: Митні правила](https://www.toll.no/en/travelling-to-and-from-norway/travel-to-norway/) <small>(англійською)</small>

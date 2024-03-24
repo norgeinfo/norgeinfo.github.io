@@ -1,4 +1,4 @@
-# :material-hammer-wrench:{ .lg .middle } Робота в Норвегії
+# :material-hammer-wrench:{ .lg .middle } Робота в Норвегії { #arbeid }
 
 ??? question "Право на роботу"
 

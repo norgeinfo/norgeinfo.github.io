@@ -3,7 +3,6 @@ theme:
   font:
     text: Montserrat
   name: material
-  custom_dir: overrides
   palette:
       primary: custom
   language: uk
@@ -28,17 +27,7 @@ plugins:
   - glightbox
   - redirects:
       redirect_maps:
-        'collective-protection.md': 'kollektiv-beskyttelse.md'
-        'introduction-programme.md': 'introduksjonsprogram.md'
-        'animals.md': 'kjaeledyr.md'
-        'other.md': 'index.md'
-        'work.md': 'jobb.md'
-        'stats.md': 'statistikk.md'
-        'housing.md': 'bolig.md'
-        'automobile.md': 'forerkort-og-bil.md'
-        'permanent-residency.md': 'permanent-oppholdstillatelse.md'
-        'benefits.md': 'stotte.md'
-        'annet.md': 'index.md'
+        'jobb.md': 'arbeid.md'
   - search:
       lang: 
         - ru

@@ -1,25 +1,45 @@
-## :octicons-law-16:{ .lg .middle }  О коллективной защите { #om-kollektiv-beskyttelse }
+## :octicons-law-16:{ .lg .middle } Коллективная защита украинцев в Норвегии { #om-kollektiv-beskyttelse }
 
 ??? question "Принимает ли Норвегия беженцев из Украины?"
 
-    Да, Норвегия принимает на данный момент беженцев из Украины. 
+    Да, Норвегия принимает на данный момент беженцев из Украины по [программе временной коллективной защите](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/).
+
+??? question "Посилання на загальну інформацію"
+
+    :flag_no:{ .lg .middle } __"Ny i Norge" ("Нові в Норвегії")__ надає офіційну інформацію від норвезьких органів влади для новоприбулих біженців та іммігрантів у Норвегії.
+
+    [:octicons-arrow-right-24: "Нові в Норвегії" (nyinorge.no)](https://www.nyinorge.no/uk/)
+
+    ---
+
+    :material-file-document-multiple:{ .lg .middle } __Директорат у справах іноземців (Utlendingsdirektoratet - UDI)__ розглядає заяви та приймає рішення щодо того, хто має право на захист та отримання дозволу на проживання в Норвегії. UDI надає офіційну інформацію для біженців з України про захист та перебування в Норвегії. 
+
+    [:octicons-arrow-right-24: Інформація для біженців з України (udi.no/ukraina)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/)
+
+    [:octicons-arrow-right-24: Сторінка у Фейсбуці: Інформація від UDI для біженців з України](https://www.facebook.com/UDIUkraina)
+
+    ---
+
+    :oncoming_police_car:{ .lg .middle } __Поліція Норвегії (Politiet)__ виконує функції, пов’язанні з проживанням іноземців в країні: реєстрація заяви про колективний захист, контроль документів, що посвідчують особу, прийняття і розгляд заяв.
+
+    [:octicons-arrow-right-24: Інформація щодо реєстрації в поліції для подання заяви про колективний захист (politiet.no)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/slik-soker-ukrainske-borgere-kollektiv-beskyttelse-i-norge/)
+        
+    [:octicons-arrow-right-24: Питання та відповіді: Процедура реєстрації та шо робити після реєстрації (politiet.no)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/sporsmal-og-svar/)
 
 ??? question "Что такое коллективная защита?" 
 
-    Временная коллективная защита – это временное разрешение на проживание в Норвегии, сроком на один год, которое предоставляет гражданам Украины и членам их семей права, которые имеют резиденты Норвегии, например, право на временное проживание, доступ к социальным услугам, доступ к рынку труда и жилью, получение образования и медицинской помощи, а также возможность участия в [:octicons-arrow-right-24: интродукционной (ознакомительной) программе](introduksjonsprogram.md). 
+    Временная коллективная защита – это временное разрешение на проживание в Норвегии, сроком на один год, которое предоставляет гражданам Украины и членам их семей права, которые имеют резиденты Норвегии, например, право на временное проживание, доступ к социальным услугам, доступ к рынку труда и жилью, получение образования и медицинской помощи, а также возможность участия в [:octicons-arrow-right-24: интродукционной (ознакомительной) программе](#introduksjonsprogram). 
 
     В зависимости от ситуации в Украине временное разрешение на проживание по коллективной защите может быть продлено на один год, и в общей сложности до трех лет, считая с даты, когда впервые было получено временное разрешение на проживание. 
 
     Коллективная защита не даёт оснований для получения разрешения на постоянное проживание в течение первых трех лет. Если ситуация в Украине не улучшится, то по прошествию трех лет с коллективной защитой вам может быть выдано временное разрешение, которое дает основания для дальнейшего получения разрешения на постоянное проживание.
 
-??? question "Хто _має_ право на колективний захист?"
+??? question "Хто має право на колективний захист? На кого не поширюється колективний захист?"
 
-    [Хто _має_ право на колективний захист?](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/#link-30164)
+    [Хто має право на колективний захист?](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/want-to-apply-rights-and-obligations/#link-30164)
 
 
-??? question "На кого _не_ поширюється колективний захист?"
-
-    [На кого _не_ поширюється колективний захист?](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/#link-30183)
+    [На кого не поширюється колективний захист?](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/frequently-asked-questions-and-answers/#link-30183)
 
 
 ??? question "Могу ли я получить коллективную защиту, если у меня есть разрешение на проживание в иной европейской стране?"
@@ -67,7 +87,7 @@
     [Информация про поселение несопровождаемых несовершеннолетних можно найти на сайте Директората по вопросам интеграции и культурно-этнического разнообразия (_Integrerings- og mangfoldsdirektoratet – IMDi_)](https://www.imdi.no/planlegging-og-bosetting/slik-bosettes-flyktninger/enslige-mindrearige-flyktninger/).
 
 
-    __Источники раздела__ :material-book-outline:
+    __Источники__ :material-book-outline:
     
     Официальные сайты
      
@@ -77,7 +97,7 @@
     - [Informasjon til deg som har fått oppnevnt representant (Statsforvalteren)](https://www.statsforvalteren.no/nb/oslo-og-viken/vergemal/vergemal-for-barn/representantordningen/informasjon-til-deg-som-har-fatt-oppnevnt-representant/)
     - [Bosetting av enslige mindreårige flyktninger (IMDi)](https://www.imdi.no/planlegging-og-bosetting/slik-bosettes-flyktninger/enslige-mindrearige-flyktninger/)
 
-??? question "Источники раздела :material-book-outline:"
+??? question "Источники раздела "Коллективная защита украинцев в Норвегии" :material-book-outline:"
     
     Законодательство 
      
@@ -147,11 +167,9 @@
 
     - [Прибуття до Норвегії (UDI)](https://udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/arrival-in-norway/)
 
-??? question "Приватне проживання до і після реєстрації"
+??? question "У мене є житло. Приватне проживання до і після реєстрації"
 
-    Якщо ви проживаєте і надалі будете проживати приватно, ви можете зареєструвати вашу заявку на отримання захисту в одному з інших поліцейських пунктів реєстрації. 
-
-    Якщо ви відповідаєте вимогам тимчасового колективного захисту в Норвегії і у вас вже __є__ житло, ви також можете зареєструватися в шістьох різних пунктах реєстрації по всій Норвегії.
+    Якщо ви проживаєте і надалі будете проживати приватно, та ви відповідаєте вимогам тимчасового колективного захисту в Норвегії, ви можете зареєструвати вашу заявку на отримання захисту в шістьох різних пунктах реєстрації по всій Норвегії. 
 
     Списки пунктів реєстрації та їхні адреси можна знайти на [сайті Поліції Норвегії](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/slik-soker-ukrainske-borgere-kollektiv-beskyttelse-i-norge) <small>(норвезькою)</small>.
 
@@ -161,7 +179,13 @@
 
     - [Як відбувається реєстрація, та що робити після проходження реєстрації (politiet.no)](https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/sporsmal-og-svar/)
 
-??? question "Источники раздела :material-book-outline:"
+
+??? question "Документы, выдаваемые Норвегией по коллективной защите"
+    
+    {% include-markdown "dokumenter.md" %}
+    
+    
+??? question "Источники раздела "Подача заявления о получении коллективной защиты" :material-book-outline:"
     
     Инструкции
     
@@ -337,7 +361,7 @@ __Выберите пункт отправления__ :material-arrow-down-circ
 
     Для получение больше информации, рекомендуется изучить информацию на сайте UDI, в том числе источники, перечисленные ниже. 
 
-??? question "Источники раздела :material-book-outline:"
+??? question "Источники раздела "Индивидуальная защита" :material-book-outline:"
 
     Законодательство
      

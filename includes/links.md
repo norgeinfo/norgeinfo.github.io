@@ -1,5 +1,3 @@
-[Нові правила щодо колективного захисту]: https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/
-    
 [Інформація щодо реєстрації в поліції для подання заяви про колективний захист]: https://www.politiet.no/tjenester/opphold-i-norge-og-asyl/ukraina/ukrainsk/slik-soker-ukrainske-borgere-kollektiv-beskyttelse-i-norge/
 
 [UDI 2022-004 Midlertidig kollektiv beskyttelse til personer fordrevet fra Ukraina]: https://www.udiregelverk.no/rettskilder/udi-retningslinjer/udi-2022-004/

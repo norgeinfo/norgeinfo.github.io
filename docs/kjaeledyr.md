@@ -44,18 +44,18 @@
 
     !!! info "Ви можете також зв'язатися з норвезьким управлінням з безпеки харчових продуктів (Mattilsynet) електронною поштою `bipg@mattilsynet.no` (пишіть англійською або норвежською)."
 
-??? question "Источники раздела :material-book-outline:"
+??? question "Источники раздела "Домашні тварини з України" :material-book-outline:"
     
-    > Законодавство
-    >
-    > - [Forskrift om ikke-kommersiell forflytning av kjæledyr (kjæledyrforskriften)](https://lovdata.no/dokument/SF/forskrift/2016-05-19-542/)
-    > - [Hundeforskriften § 1. Forbud mot farlige hunder](https://lovdata.no/forskrift/2004-08-20-1204/§1)
-    > - [Hundeloven §19. Farlige hunder](https://lovdata.no/lov/2003-07-04-74/§19)
-    > - [Forskrift om forbud mot eksotiske dyr](https://lovdata.no/dokument/SF/forskrift/2017-05-11-597)
-    >
-    > Офіційні державні сайти
-    > 
-    > - [Вимоги щодо ввезення домашніх тварин з України (Mattilsynet)](https://www.mattilsynet.no/dyr/kjaeledyr/reise-med-kjaeledyr/kjaeledyr-fra-ukraina/informasjon-til-flyktninger-som-reiser-med-kjaeledyr-fra-ukraina#kap-2-------)
-    > - [Вимоги щодо ввезення домашніх тварин з Європейського союзу / Європейської економічної зони](https://www.mattilsynet.no/dyr/kjaeledyr/reise-med-kjaeledyr/reise-med-hund-katt-eller-ilder-fra-eu-eos)
-    > - [Заборонені собаки та породи собак (Mattilsynet)](https://www.mattilsynet.no/dyr/kjaeledyr/hund/forbudte-hunder-og-hunderaser)
-    > - [Інформація для українських біженців, які привозять екзотичних домашніх тварин (Miljødirektoratet)](https://dev.environmentagency.no/information-to-ukrainian-refugees-bringing-their-exotic-pets-to-norway)
+    Законодавство
+    
+    - [Forskrift om ikke-kommersiell forflytning av kjæledyr (kjæledyrforskriften)](https://lovdata.no/dokument/SF/forskrift/2016-05-19-542/)
+    - [Hundeforskriften § 1. Forbud mot farlige hunder](https://lovdata.no/forskrift/2004-08-20-1204/§1)
+    - [Hundeloven §19. Farlige hunder](https://lovdata.no/lov/2003-07-04-74/§19)
+    - [Forskrift om forbud mot eksotiske dyr](https://lovdata.no/dokument/SF/forskrift/2017-05-11-597)
+    
+    Офіційні державні сайти
+    
+    - [Вимоги щодо ввезення домашніх тварин з України (Mattilsynet)](https://www.mattilsynet.no/dyr/kjaeledyr/reise-med-kjaeledyr/kjaeledyr-fra-ukraina/informasjon-til-flyktninger-som-reiser-med-kjaeledyr-fra-ukraina#kap-2-------)
+    - [Вимоги щодо ввезення домашніх тварин з Європейського союзу / Європейської економічної зони](https://www.mattilsynet.no/dyr/kjaeledyr/reise-med-kjaeledyr/reise-med-hund-katt-eller-ilder-fra-eu-eos)
+    - [Заборонені собаки та породи собак (Mattilsynet)](https://www.mattilsynet.no/dyr/kjaeledyr/hund/forbudte-hunder-og-hunderaser)
+    - [Інформація для українських біженців, які привозять екзотичних домашніх тварин (Miljødirektoratet)](https://dev.environmentagency.no/information-to-ukrainian-refugees-bringing-their-exotic-pets-to-norway)

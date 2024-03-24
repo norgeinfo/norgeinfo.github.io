@@ -92,16 +92,14 @@ __Поселение для украинцев, получивших време�
     - [hybel.no](https://hybel.no/)
  
 
-??? question "Источники раздела :material-book-outline:"
-
-    > :material-book-outline: __Источники__ 
-    > 
-    > Официальные сайты Норвегии
-    >
-    > - [UDI 2022-003 Retningslinje for midlertidig alternativ mottaksplass for personer fordrevet fra Ukraina ](https://www.udiregelverk.no/rettskilder/udi-retningslinjer/udi-2022-003/) 
-    > - [Поселение семьи и одиноких взрослых в mottak (imdi.no)](https://www.imdi.no/planlegging-og-bosetting/slik-bosettes-flyktninger/familier-og-enslige-voksne/)
-    > - [Вам надано колективний захист. Поселення (udi.no)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/received-an-answer/#link-30304)
-    > - [Поселення українців, які отримали тимчасовий колективний захист](https://udi.no/globalassets/ukrainasituasjonen-inkl-russlandinfo/ukr---bosetting-for-ukrainere-som-har-fatt-kollektiv-beskyttelse.pdf)
-    > - [Поселение беженцев, самостоятельно нашедших жилье (imdi.no)](https://www.imdi.no/planlegging-og-bosetting/bosettingsprosessen/selvbosetting/)
-    > - [Пример процесса avtalt selvbosetting в Stavanger Kommune](https://www.stavanger.kommune.no/uk-ua/sosialtjenester/flyktningtjenesten-i-stavanger/----/)
-    > - [Пример процесса avtalt selvbosetting в Bergen Kommune](https://www.bergen.kommune.no/innbyggerhjelpen/bolig-og-sosiale-tjenester/botilbud/kommunal-bolig/avtalt-selvbosetting-for-flyktninger)
+??? question "Источники раздела "Жилье и временное размещение" :material-book-outline:"
+    
+    Официальные сайты Норвегии
+    
+    - [UDI 2022-003 Retningslinje for midlertidig alternativ mottaksplass for personer fordrevet fra Ukraina ](https://www.udiregelverk.no/rettskilder/udi-retningslinjer/udi-2022-003/) 
+    - [Поселение семьи и одиноких взрослых в mottak (imdi.no)](https://www.imdi.no/planlegging-og-bosetting/slik-bosettes-flyktninger/familier-og-enslige-voksne/)
+    - [Вам надано колективний захист. Поселення (udi.no)](https://www.udi.no/uk/information-ukraine-and-russia/situation-in-ukraine/stay-in-norway/protection-asylum-in-norway/received-an-answer/#link-30304)
+    - [Поселення українців, які отримали тимчасовий колективний захист](https://udi.no/globalassets/ukrainasituasjonen-inkl-russlandinfo/ukr---bosetting-for-ukrainere-som-har-fatt-kollektiv-beskyttelse.pdf)
+    - [Поселение беженцев, самостоятельно нашедших жилье (imdi.no)](https://www.imdi.no/planlegging-og-bosetting/bosettingsprosessen/selvbosetting/)
+    - [Пример процесса avtalt selvbosetting в Stavanger Kommune](https://www.stavanger.kommune.no/uk-ua/sosialtjenester/flyktningtjenesten-i-stavanger/----/)
+    - [Пример процесса avtalt selvbosetting в Bergen Kommune](https://www.bergen.kommune.no/innbyggerhjelpen/bolig-og-sosiale-tjenester/botilbud/kommunal-bolig/avtalt-selvbosetting-for-flyktninger)
