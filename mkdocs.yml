@@ -53,4 +53,4 @@ markdown_extensions:
 - pymdownx.snippets:
       auto_append:
         - includes/links.md
-copyright: Слава Україні!
+copyright: Слава Україні!!
